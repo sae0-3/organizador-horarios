@@ -7,7 +7,7 @@ import { SubjectsAccordion } from './SubjectsAccordion'
 export const LevelsAccordion = ({ file }) => {
   const { data, isLoading, error } = useQuery({
     queryKey: ['career', file],
-    queryFn: () => fetchJson(`/data/${file}.json`),
+    queryFn: () => fetchJson(`${import.meta.env.BASE_URL}/data/${file}.json`),
   })
 
   const [openLevel, setOpenLevel] = useState(null)

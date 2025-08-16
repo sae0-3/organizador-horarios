@@ -7,7 +7,7 @@ import { CareersAccordion } from './CareersAccordion'
 export const FacultiesAccordion = () => {
   const { data: faculties, isLoading, error } = useQuery({
     queryKey: ['faculties'],
-    queryFn: () => fetchJson('/data/index.json'),
+    queryFn: () => fetchJson(`${import.meta.env.BASE_URL}/data/index.json`),
   })
 
   const [openFaculty, setOpenFaculty] = useState(null)
