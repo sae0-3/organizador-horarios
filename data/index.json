@@ -26,8 +26,28 @@
     "careers": [
       {
         "name": "LICENCIATURA EN INGENIERIA COMERCIAL",
-        "management": "1/2025",
+        "management": "2/2025",
         "file": "comercial"
+      },
+      {
+        "name": "LICENCIATURA EN INGENIERIA FINANCIERA",
+        "management": "2/2025",
+        "file": "financiera"
+      },
+      {
+        "name": "LICENCIATURA EN CONTADURIA PUBLICA",
+        "management": "2/2025",
+        "file": "contaduria"
+      },
+      {
+        "name": "LICENCIATURA EN ADMINISTRACION DE EMPRESAS",
+        "management": "2/2025",
+        "file": "administracion"
+      },
+      {
+        "name": "LICENCIATURA EN ECONOMIA",
+        "management": "2/2025",
+        "file": "economia"
       }
     ]
   }
