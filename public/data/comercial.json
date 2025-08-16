@@ -164,7 +164,7 @@
                 {
                   "day": "LU",
                   "time": "0645-0815",
-                  "room": "E524"
+                  "room": "E541"
                 },
                 {
                   "day": "MI",
@@ -217,7 +217,7 @@
                 {
                   "day": "JU",
                   "time": "0645-0815",
-                  "room": "E203"
+                  "room": "E541"
                 },
                 {
                   "day": "SA",
@@ -462,17 +462,17 @@
               "teacher": "VELARDE POMA JUAN CARLOS",
               "schedule": [
                 {
-                  "day": "MA",
-                  "time": "1545-1715",
-                  "room": "E543"
-                },
-                {
                   "day": "MI",
                   "time": "1545-1715",
                   "room": "E543"
                 },
                 {
                   "day": "JU",
+                  "time": "1545-1715",
+                  "room": "E541"
+                },
+                {
+                  "day": "VI",
                   "time": "1545-1715",
                   "room": "E541"
                 }
@@ -497,17 +497,17 @@
               "teacher": "VELARDE POMA JUAN CARLOS",
               "schedule": [
                 {
-                  "day": "MA",
-                  "time": "1415-1545",
-                  "room": "E541"
-                },
-                {
                   "day": "MI",
                   "time": "1415-1545",
                   "room": "E543"
                 },
                 {
                   "day": "JU",
+                  "time": "1415-1545",
+                  "room": "E541"
+                },
+                {
+                  "day": "VI",
                   "time": "1415-1545",
                   "room": "E541"
                 }
@@ -556,6 +556,11 @@
               "teacher": "LAZCANO ALANDIA RUBEN",
               "schedule": [
                 {
+                  "day": "LU",
+                  "time": "0815-0945",
+                  "room": "E503"
+                },
+                {
                   "day": "MA",
                   "time": "0945-1115",
                   "room": "E404"
@@ -563,12 +568,7 @@
                 {
                   "day": "MI",
                   "time": "0815-0945",
-                  "room": "E207"
-                },
-                {
-                  "day": "JU",
-                  "time": "0945-1115",
-                  "room": "E404"
+                  "room": "E545"
                 }
               ],
               "assistants": [],
@@ -604,19 +604,19 @@
               "teacher": "LAZCANO ALANDIA RUBEN",
               "schedule": [
                 {
+                  "day": "LU",
+                  "time": "0945-1115",
+                  "room": "E517"
+                },
+                {
                   "day": "MA",
                   "time": "0815-0945",
-                  "room": "E504"
+                  "room": "EPB-1"
                 },
                 {
                   "day": "MI",
                   "time": "0945-1115",
-                  "room": "E109"
-                },
-                {
-                  "day": "JU",
-                  "time": "0815-0945",
-                  "room": "E408"
+                  "room": "E546"
                 }
               ],
               "assistants": [],
@@ -663,9 +663,9 @@
                   "room": "E544"
                 },
                 {
-                  "day": "MI",
-                  "time": "1415-1545",
-                  "room": "E541"
+                  "day": "VI",
+                  "time": "0945-1115",
+                  "room": "E543"
                 },
                 {
                   "day": "SA",
@@ -690,22 +690,22 @@
             },
             {
               "code": "02",
-              "teacher": "DIAZ MONZON EDMUNDO",
+              "teacher": "POR DESIGNAR DOCENTE",
               "schedule": [
                 {
-                  "day": "MA",
-                  "time": "0645-0815",
-                  "room": "E544"
+                  "day": "LU",
+                  "time": "0815-0945",
+                  "room": "E524"
                 },
                 {
                   "day": "JU",
-                  "time": "0645-0815",
-                  "room": "E544"
+                  "time": "0815-0945",
+                  "room": "E511"
                 },
                 {
                   "day": "VI",
-                  "time": "0645-0815",
-                  "room": "E542"
+                  "time": "0815-0945",
+                  "room": "E205"
                 }
               ],
               "assistants": [
@@ -729,18 +729,18 @@
               "schedule": [
                 {
                   "day": "LU",
-                  "time": "1245-1415",
-                  "room": "E307"
+                  "time": "1715-1845",
+                  "room": "E208"
+                },
+                {
+                  "day": "MA",
+                  "time": "1715-1845",
+                  "room": "E301"
                 },
                 {
                   "day": "MI",
-                  "time": "1245-1415",
-                  "room": "E207"
-                },
-                {
-                  "day": "VI",
-                  "time": "1245-1415",
-                  "room": "E207"
+                  "time": "1715-1845",
+                  "room": "E202"
                 }
               ],
               "assistants": [],
@@ -752,19 +752,19 @@
               "teacher": "MORALES ROJAS ARTURO JOSE L.",
               "schedule": [
                 {
+                  "day": "LU",
+                  "time": "1115-1245",
+                  "room": "E522"
+                },
+                {
                   "day": "MA",
                   "time": "0945-1115",
                   "room": "E524"
                 },
                 {
                   "day": "JU",
-                  "time": "0815-0945",
-                  "room": "E205"
-                },
-                {
-                  "day": "VI",
                   "time": "1115-1245",
-                  "room": "EPB-4"
+                  "room": "E521"
                 }
               ],
               "assistants": [],
@@ -782,7 +782,7 @@
                 },
                 {
                   "day": "JU",
-                  "time": "1545-1715",
+                  "time": "1415-1545",
                   "room": "E521"
                 },
                 {
@@ -797,7 +797,7 @@
             },
             {
               "code": "41",
-              "teacher": "MORALES ROJAS ARTURO JOSE L.",
+              "teacher": "POR DESIGNAR DOCENTE",
               "schedule": [
                 {
                   "day": "LU",
@@ -807,7 +807,7 @@
                 {
                   "day": "JU",
                   "time": "1115-1245",
-                  "room": "E521"
+                  "room": "E304"
                 }
               ],
               "assistants": [
@@ -861,8 +861,8 @@
               "schedule": [
                 {
                   "day": "MA",
-                  "time": "1715-1845",
-                  "room": "E520"
+                  "time": "1415-1545",
+                  "room": "E524"
                 },
                 {
                   "day": "JU",
@@ -1062,8 +1062,8 @@
           ]
         },
         {
-          "code": "1301009 I",
-          "name": "ESTADISTICA",
+          "code": "1301009",
+          "name": "ESTADISTICA I",
           "groups": [
             {
               "code": "01",
@@ -1245,7 +1245,7 @@
                 {
                   "day": "MI",
                   "time": "1545-1715",
-                  "room": "E510"
+                  "room": "E541"
                 },
                 {
                   "day": "JU",
@@ -1310,19 +1310,19 @@
               "teacher": "LOPEZ VALENZUELA JOSE WALTER",
               "schedule": [
                 {
+                  "day": "LU",
+                  "time": "1715-1845",
+                  "room": "E103"
+                },
+                {
                   "day": "MA",
-                  "time": "0645-0815",
-                  "room": "E206"
+                  "time": "2015-2145",
+                  "room": "E509"
                 },
                 {
-                  "day": "JU",
-                  "time": "0645-0815",
-                  "room": "E206"
-                },
-                {
-                  "day": "SA",
-                  "time": "0645-0815",
-                  "room": "E206"
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "E514"
                 }
               ],
               "assistants": [],
@@ -1361,7 +1361,7 @@
           "groups": [
             {
               "code": "01",
-              "teacher": "DIAZ MONZON EDMUNDO",
+              "teacher": "POR DESIGNAR DOCENTE",
               "schedule": [
                 {
                   "day": "LU",
@@ -1413,8 +1413,8 @@
               "schedule": [
                 {
                   "day": "MA",
-                  "time": "1115-1245",
-                  "room": "E404"
+                  "time": "1245-1415",
+                  "room": "E408"
                 },
                 {
                   "day": "MI",
@@ -1460,18 +1460,18 @@
               "teacher": "VILDOZO ZAMORANO MARCELO",
               "schedule": [
                 {
-                  "day": "MA",
-                  "time": "0945-1115",
-                  "room": "E544"
-                },
-                {
-                  "day": "JU",
-                  "time": "0815-0945",
+                  "day": "LU",
+                  "time": "1245-1415",
                   "room": "E404"
                 },
                 {
-                  "day": "VI",
-                  "time": "0815-0945",
+                  "day": "MI",
+                  "time": "1245-1415",
+                  "room": "E510"
+                },
+                {
+                  "day": "JU",
+                  "time": "1245-1415",
                   "room": "E404"
                 }
               ],
@@ -1569,32 +1569,43 @@
               "schedule": [
                 {
                   "day": "LU",
-                  "time": "2015-2145",
-                  "room": "E310"
+                  "time": "1715-1845",
+                  "room": "E305"
                 },
                 {
                   "day": "MA",
-                  "time": "2015-2145",
-                  "room": "E310"
+                  "time": "1715-1845",
+                  "room": "E204"
                 }
               ],
-              "assistants": [],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "MI",
+                      "time": "1245-1415",
+                      "room": "E524"
+                    }
+                  ]
+                }
+              ],
               "is_lab": false,
-              "total_minutes": 180
+              "total_minutes": 270
             },
             {
               "code": "41",
               "teacher": "PANTOJA ROCHA YURI NEWTON",
               "schedule": [
                 {
-                  "day": "LU",
-                  "time": "0645-0815",
-                  "room": "E108"
+                  "day": "MA",
+                  "time": "1415-1545",
+                  "room": "E110"
                 },
                 {
-                  "day": "MA",
-                  "time": "0645-0815",
-                  "room": "E101"
+                  "day": "MI",
+                  "time": "1415-1545",
+                  "room": "E108"
                 }
               ],
               "assistants": [],
@@ -1696,18 +1707,29 @@
               "schedule": [
                 {
                   "day": "MI",
-                  "time": "1545-1715",
-                  "room": "E545"
+                  "time": "1845-2015",
+                  "room": "E404"
                 },
                 {
-                  "day": "VI",
-                  "time": "1545-1715",
-                  "room": "E545"
+                  "day": "JU",
+                  "time": "1845-2015",
+                  "room": "E404"
                 }
               ],
-              "assistants": [],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "MA",
+                      "time": "1545-1715",
+                      "room": "E105"
+                    }
+                  ]
+                }
+              ],
               "is_lab": false,
-              "total_minutes": 180
+              "total_minutes": 270
             },
             {
               "code": "07",
@@ -2130,8 +2152,8 @@
                   "room": "EPB-1"
                 },
                 {
-                  "day": "JU",
-                  "time": "1115-1245",
+                  "day": "MI",
+                  "time": "1245-1415",
                   "room": "E404"
                 }
               ],
@@ -2493,7 +2515,7 @@
                 {
                   "day": "LU",
                   "time": "1115-1245",
-                  "room": "E520"
+                  "room": "E301"
                 },
                 {
                   "day": "MA",
@@ -2693,9 +2715,9 @@
                   "room": "E522"
                 },
                 {
-                  "day": "VI",
-                  "time": "0945-1115",
-                  "room": "E107"
+                  "day": "JU",
+                  "time": "0815-0945",
+                  "room": "E205"
                 }
               ],
               "assistants": [],
@@ -2857,17 +2879,17 @@
               "teacher": "VELARDE POMA JUAN CARLOS",
               "schedule": [
                 {
-                  "day": "MA",
-                  "time": "0645-0815",
-                  "room": "E548"
-                },
-                {
                   "day": "MI",
                   "time": "0645-0815",
                   "room": "E548"
                 },
                 {
                   "day": "JU",
+                  "time": "0645-0815",
+                  "room": "E548"
+                },
+                {
+                  "day": "VI",
                   "time": "0645-0815",
                   "room": "E548"
                 }
@@ -3215,19 +3237,19 @@
               "teacher": "VELASQUEZ ARIAS MARLENE",
               "schedule": [
                 {
-                  "day": "MA",
-                  "time": "1415-1545",
+                  "day": "LU",
+                  "time": "0645-0815",
+                  "room": "E208"
+                },
+                {
+                  "day": "MI",
+                  "time": "0645-0815",
                   "room": "E204"
                 },
                 {
                   "day": "JU",
-                  "time": "1415-1545",
-                  "room": "E102"
-                },
-                {
-                  "day": "VI",
-                  "time": "1415-1545",
-                  "room": "E102"
+                  "time": "1715-1845",
+                  "room": "E304"
                 }
               ],
               "assistants": [],
@@ -3240,18 +3262,18 @@
               "schedule": [
                 {
                   "day": "MA",
-                  "time": "1245-1415",
-                  "room": "E206"
+                  "time": "1845-2015",
+                  "room": "E404"
                 },
                 {
                   "day": "MI",
-                  "time": "0645-0815",
-                  "room": "E103"
+                  "time": "1845-2015",
+                  "room": "E541"
                 },
                 {
                   "day": "JU",
-                  "time": "1245-1415",
-                  "room": "E207"
+                  "time": "1845-2015",
+                  "room": "E307"
                 }
               ],
               "assistants": [],
@@ -3456,7 +3478,7 @@
                 {
                   "day": "LU",
                   "time": "0945-1115",
-                  "room": "E544"
+                  "room": "E309"
                 },
                 {
                   "day": "MA",
@@ -3903,19 +3925,19 @@
               "teacher": "BURGOS MEDINA CARLOS ALBERTO",
               "schedule": [
                 {
-                  "day": "LU",
-                  "time": "1845-2015",
-                  "room": "E404"
-                },
-                {
                   "day": "MA",
-                  "time": "1245-1415",
-                  "room": "E404"
+                  "time": "0815-0945",
+                  "room": "E108"
                 },
                 {
                   "day": "MI",
-                  "time": "2015-2145",
-                  "room": "E404"
+                  "time": "1115-1245",
+                  "room": "E306"
+                },
+                {
+                  "day": "JU",
+                  "time": "0815-0945",
+                  "room": "E305"
                 }
               ],
               "assistants": [],
@@ -4107,19 +4129,19 @@
               "teacher": "SANCHEZ SANCHEZ EDSON OSWALDO",
               "schedule": [
                 {
-                  "day": "MA",
-                  "time": "1245-1415",
-                  "room": "E204"
+                  "day": "LU",
+                  "time": "0815-0945",
+                  "room": "EPB-4"
+                },
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "EPB-2"
                 },
                 {
                   "day": "JU",
-                  "time": "1245-1415",
-                  "room": "E204"
-                },
-                {
-                  "day": "SA",
                   "time": "0815-0945",
-                  "room": "E202"
+                  "room": "E306"
                 }
               ],
               "assistants": [],
@@ -4333,8 +4355,8 @@
                 },
                 {
                   "day": "JU",
-                  "time": "0645-0815",
-                  "room": "E504"
+                  "time": "1715-1845",
+                  "room": "E303"
                 }
               ],
               "assistants": [],
@@ -4603,7 +4625,7 @@
                 {
                   "day": "LU",
                   "time": "1115-1245",
-                  "room": "E303"
+                  "room": "E305"
                 },
                 {
                   "day": "JU",
@@ -4620,14 +4642,14 @@
               "teacher": "AYMA SOTO FELIX MARCELO",
               "schedule": [
                 {
-                  "day": "MI",
-                  "time": "1845-2015",
-                  "room": "E404"
+                  "day": "LU",
+                  "time": "1115-1245",
+                  "room": "E408"
                 },
                 {
-                  "day": "JU",
-                  "time": "1845-2015",
-                  "room": "E404"
+                  "day": "MA",
+                  "time": "0945-1115",
+                  "room": "E301"
                 }
               ],
               "assistants": [],
@@ -5016,14 +5038,14 @@
               "teacher": "CAMPERO GUTIERREZ MILTON",
               "schedule": [
                 {
-                  "day": "MA",
-                  "time": "1415-1545",
-                  "room": "E104"
+                  "day": "LU",
+                  "time": "1115-1245",
+                  "room": "E303"
                 },
                 {
-                  "day": "JU",
-                  "time": "1415-1545",
-                  "room": "E104"
+                  "day": "MA",
+                  "time": "1115-1245",
+                  "room": "E301"
                 }
               ],
               "assistants": [],
@@ -5140,7 +5162,7 @@
           "groups": [
             {
               "code": "07",
-              "teacher": "VILLAGOMEZ VILLARROEL CESAR",
+              "teacher": "POR DESIGNAR DOCENTE",
               "schedule": [
                 {
                   "day": "MI",
@@ -5296,18 +5318,18 @@
               "teacher": "AYMA SOTO FELIX MARCELO",
               "schedule": [
                 {
-                  "day": "LU",
-                  "time": "1845-2015",
-                  "room": "ADM1"
-                },
-                {
                   "day": "MA",
-                  "time": "1845-2015",
+                  "time": "1115-1245",
                   "room": "ADM1"
                 },
                 {
-                  "day": "VI",
-                  "time": "2015-2145",
+                  "day": "MI",
+                  "time": "1115-1245",
+                  "room": "ADM1"
+                },
+                {
+                  "day": "JU",
+                  "time": "1115-1245",
                   "room": "ADM1"
                 }
               ],
@@ -5489,18 +5511,18 @@
               "schedule": [
                 {
                   "day": "LU",
-                  "time": "2015-2145",
-                  "room": "E308"
+                  "time": "0945-1115",
+                  "room": "E401"
                 },
                 {
                   "day": "MA",
-                  "time": "2015-2145",
-                  "room": "E308"
+                  "time": "1115-1245",
+                  "room": "E206"
                 },
                 {
                   "day": "MI",
-                  "time": "1245-1415",
-                  "room": "E102"
+                  "time": "0945-1115",
+                  "room": "E547"
                 }
               ],
               "assistants": [],

@@ -1,0 +1,6016 @@
+{
+  "levels": [
+    {
+      "code": "A",
+      "subjects": [
+        {
+          "code": "1301001",
+          "name": "ADMINISTRACION GENERAL",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "VILLARROEL DAZA MARIA HELEN",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0945-1115",
+                  "room": "E520"
+                },
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "E503"
+                },
+                {
+                  "day": "VI",
+                  "time": "0945-1115",
+                  "room": "E504"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "02",
+              "teacher": "BADANI LENZ RAFAEL FERNANDO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1115-1245",
+                  "room": "E545"
+                },
+                {
+                  "day": "MI",
+                  "time": "1115-1245",
+                  "room": "E545"
+                },
+                {
+                  "day": "VI",
+                  "time": "1115-1245",
+                  "room": "E545"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "03",
+              "teacher": "VILLARROEL DAZA MARIA HELEN",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0945-1115",
+                  "room": "E503"
+                },
+                {
+                  "day": "MI",
+                  "time": "1115-1245",
+                  "room": "E503"
+                },
+                {
+                  "day": "VI",
+                  "time": "1115-1245",
+                  "room": "E504"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "VALDEZ ZEGARRA RAFAEL A.",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "2015-2145",
+                  "room": "E201"
+                },
+                {
+                  "day": "VI",
+                  "time": "0645-0815",
+                  "room": "E524"
+                },
+                {
+                  "day": "SA",
+                  "time": "0645-0815",
+                  "room": "E502"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "21",
+              "teacher": "SANCHEZ CASTELLON JUAN FELIX",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1845-2015",
+                  "room": "E545"
+                },
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "E545"
+                },
+                {
+                  "day": "VI",
+                  "time": "1845-2015",
+                  "room": "E545"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "22",
+              "teacher": "VARGAS OROSCO FREDDY",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1545-1715",
+                  "room": "E205"
+                },
+                {
+                  "day": "MI",
+                  "time": "1545-1715",
+                  "room": "E503"
+                },
+                {
+                  "day": "JU",
+                  "time": "1545-1715",
+                  "room": "E503"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "23",
+              "teacher": "TORRICO OCAMPO ENRIQUE",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "E501"
+                },
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "E530"
+                },
+                {
+                  "day": "JU",
+                  "time": "1845-2015",
+                  "room": "E530"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301002",
+          "name": "CONTABILIDAD I",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "PEREZ AMADOR MARIO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1115-1245",
+                  "room": "E545"
+                },
+                {
+                  "day": "JU",
+                  "time": "1115-1245",
+                  "room": "E545"
+                },
+                {
+                  "day": "VI",
+                  "time": "1115-1245",
+                  "room": "E523"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "02",
+              "teacher": "PEREZ AMADOR MARIO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0945-1115",
+                  "room": "E523"
+                },
+                {
+                  "day": "JU",
+                  "time": "0945-1115",
+                  "room": "E544"
+                },
+                {
+                  "day": "VI",
+                  "time": "0945-1115",
+                  "room": "E523"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "03",
+              "teacher": "MENDOZA CRESPO JOSE ANTONIO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0945-1115",
+                  "room": "E109"
+                },
+                {
+                  "day": "MA",
+                  "time": "1415-1545",
+                  "room": "E106"
+                },
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "E303"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "04",
+              "teacher": "VILLAZON ARANDIA RICARDO IVAN",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1845-2015",
+                  "room": "E503"
+                },
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "E105"
+                },
+                {
+                  "day": "JU",
+                  "time": "1845-2015",
+                  "room": "E106"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "MALDONADO ULUNQUE VICTOR HUGO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1845-2015",
+                  "room": "E101"
+                },
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "E208"
+                },
+                {
+                  "day": "JU",
+                  "time": "1715-1845",
+                  "room": "E102"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "21",
+              "teacher": "FERRUFINO JUAREZ JOSE MARCOS",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "E206"
+                },
+                {
+                  "day": "JU",
+                  "time": "1845-2015",
+                  "room": "E206"
+                },
+                {
+                  "day": "SA",
+                  "time": "0945-1115",
+                  "room": "E208"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "22",
+              "teacher": "MENDOZA CRESPO JOSE ANTONIO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1845-2015",
+                  "room": "E544"
+                },
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "E101"
+                },
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "EPB-1"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301003",
+          "name": "ALGEBRA",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "QUISPE CABRERA RENE",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1115-1245",
+                  "room": "E206"
+                },
+                {
+                  "day": "MA",
+                  "time": "1115-1245",
+                  "room": "E203"
+                },
+                {
+                  "day": "MI",
+                  "time": "1115-1245",
+                  "room": "E203"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "SA",
+                      "time": "0815-0945",
+                      "room": "E201"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 360
+            },
+            {
+              "code": "02",
+              "teacher": "COSSIO MC.GALEN LIMBERT PAUL",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0945-1115",
+                  "room": "E209"
+                },
+                {
+                  "day": "MA",
+                  "time": "1415-1545",
+                  "room": "E102"
+                },
+                {
+                  "day": "MI",
+                  "time": "1545-1715",
+                  "room": "E202"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "JU",
+                      "time": "1415-1545",
+                      "room": "E503"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 360
+            },
+            {
+              "code": "04",
+              "teacher": "IRIARTE MERCADO EDGAR ALBERTO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0815-0945",
+                  "room": "E545"
+                },
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "E520"
+                },
+                {
+                  "day": "VI",
+                  "time": "0815-0945",
+                  "room": "E522"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "SA",
+                      "time": "0815-0945",
+                      "room": "E102"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 360
+            },
+            {
+              "code": "05",
+              "teacher": "MOYA ALBARRACIN MARTIN",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "2015-2145",
+                  "room": "E101"
+                },
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "E520"
+                },
+                {
+                  "day": "JU",
+                  "time": "0645-0815",
+                  "room": "E502"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "VI",
+                      "time": "0645-0815",
+                      "room": "E105"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 360
+            },
+            {
+              "code": "20",
+              "teacher": "JALDIN QUIROZ RENE",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1715-1845",
+                  "room": "E504"
+                },
+                {
+                  "day": "MI",
+                  "time": "1715-1845",
+                  "room": "E511"
+                },
+                {
+                  "day": "JU",
+                  "time": "1845-2015",
+                  "room": "E523"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "LU",
+                      "time": "1545-1715",
+                      "room": "E203"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 360
+            },
+            {
+              "code": "22",
+              "teacher": "ALBORTA SILES RAUL JOSE",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0815-0945",
+                  "room": "E518"
+                },
+                {
+                  "day": "MA",
+                  "time": "0945-1115",
+                  "room": "E302"
+                },
+                {
+                  "day": "VI",
+                  "time": "1115-1245",
+                  "room": "E506"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "23",
+              "teacher": "COSSIO MC.GALEN LIMBERT PAUL",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1845-2015",
+                  "room": "E504"
+                },
+                {
+                  "day": "MA",
+                  "time": "2015-2145",
+                  "room": "E209"
+                },
+                {
+                  "day": "MI",
+                  "time": "1715-1845",
+                  "room": "E520"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "24",
+              "teacher": "QUISPE CABRERA RENE",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1715-1845",
+                  "room": "E203"
+                },
+                {
+                  "day": "MA",
+                  "time": "1715-1845",
+                  "room": "E202"
+                },
+                {
+                  "day": "MI",
+                  "time": "1715-1845",
+                  "room": "E203"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301004",
+          "name": "METODOLOGIA DE INVESTIGACION I",
+          "groups": [
+            {
+              "code": "02",
+              "teacher": "GUZMAN BROCKMANN FELIPE HANS",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "2015-2145",
+                  "room": "E520"
+                },
+                {
+                  "day": "MA",
+                  "time": "0945-1115",
+                  "room": "E520"
+                },
+                {
+                  "day": "VI",
+                  "time": "2015-2145",
+                  "room": "E522"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "22",
+              "teacher": "CARRILLO FUENTES JUAN ANGEL",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1715-1845",
+                  "room": "E522"
+                },
+                {
+                  "day": "MI",
+                  "time": "1715-1845",
+                  "room": "E502"
+                },
+                {
+                  "day": "VI",
+                  "time": "0945-1115",
+                  "room": "E503"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "23",
+              "teacher": "ZAMBRANA TRIVENO JOSE EMILIO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1245-1415",
+                  "room": "E504"
+                },
+                {
+                  "day": "MI",
+                  "time": "1245-1415",
+                  "room": "E504"
+                },
+                {
+                  "day": "JU",
+                  "time": "1245-1415",
+                  "room": "E504"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "24",
+              "teacher": "GUERRA TORO MARIA ELENA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0645-0815",
+                  "room": "EPB-4"
+                },
+                {
+                  "day": "MI",
+                  "time": "0645-0815",
+                  "room": "EPB-1"
+                },
+                {
+                  "day": "SA",
+                  "time": "0815-0945",
+                  "room": "EPB-4"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "25",
+              "teacher": "ZAMBRANA TRIVENO JOSE EMILIO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1545-1715",
+                  "room": "E502"
+                },
+                {
+                  "day": "MA",
+                  "time": "1545-1715",
+                  "room": "E504"
+                },
+                {
+                  "day": "JU",
+                  "time": "1545-1715",
+                  "room": "E504"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301005",
+          "name": "CALCULO",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "POR DESIGNAR DOCENTE",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1115-1245",
+                  "room": "EPB-4"
+                },
+                {
+                  "day": "JU",
+                  "time": "1115-1245",
+                  "room": "E304"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "MA",
+                      "time": "0945-1115",
+                      "room": "E530"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "02",
+              "teacher": "MONTANO ROMERO JOSE",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0815-0945",
+                  "room": "E502"
+                },
+                {
+                  "day": "JU",
+                  "time": "0815-0945",
+                  "room": "E502"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "VI",
+                      "time": "1715-1845",
+                      "room": "EPB-4"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "03",
+              "teacher": "COVARRUBIAS VARGAS CAUJMAN",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0645-0815",
+                  "room": "E103"
+                },
+                {
+                  "day": "JU",
+                  "time": "0645-0815",
+                  "room": "E103"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "VI",
+                      "time": "1115-1245",
+                      "room": "E503"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "04",
+              "teacher": "DUERI MENDEZ MARIA ELENA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1545-1715",
+                  "room": "E543"
+                },
+                {
+                  "day": "VI",
+                  "time": "1545-1715",
+                  "room": "E542"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "20",
+              "teacher": "POR DESIGNAR DOCENTE",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0945-1115",
+                  "room": "E501"
+                },
+                {
+                  "day": "VI",
+                  "time": "0815-0945",
+                  "room": "E502"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "SA",
+                      "time": "0945-1115",
+                      "room": "E504"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "21",
+              "teacher": "POR DESIGNAR DOCENTE",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "0645-0815",
+                  "room": "E503"
+                },
+                {
+                  "day": "VI",
+                  "time": "1715-1845",
+                  "room": "E504"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "MA",
+                      "time": "1715-1845",
+                      "room": "E513"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "22",
+              "teacher": "COVARRUBIAS VARGAS CAUJMAN",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "0645-0815",
+                  "room": "E530"
+                },
+                {
+                  "day": "JU",
+                  "time": "0945-1115",
+                  "room": "E203"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "VI",
+                      "time": "0815-0945",
+                      "room": "E204"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "23",
+              "teacher": "MONTANO RODRIGUEZ EDGAR ORLANDO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0645-0815",
+                  "room": "EPB-2"
+                },
+                {
+                  "day": "VI",
+                  "time": "0645-0815",
+                  "room": "E103"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "JU",
+                      "time": "1115-1245",
+                      "room": "E506"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "24",
+              "teacher": "VILLARROEL SOLIZ GROVER",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1415-1545",
+                  "room": "E522"
+                },
+                {
+                  "day": "VI",
+                  "time": "1545-1715",
+                  "room": "E522"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "JU",
+                      "time": "1115-1245",
+                      "room": "E205"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "25",
+              "teacher": "CRESPO FLORES RENE CARLOS",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1415-1545",
+                  "room": "E524"
+                },
+                {
+                  "day": "JU",
+                  "time": "1715-1845",
+                  "room": "E523"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "B",
+      "subjects": [
+        {
+          "code": "1301006",
+          "name": "TEORIA Y TECNICAS DE LA ORGANIZACION",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "VILLARROEL SOLIZ GROVER",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1245-1415",
+                  "room": "E522"
+                },
+                {
+                  "day": "MA",
+                  "time": "1545-1715",
+                  "room": "E523"
+                },
+                {
+                  "day": "VI",
+                  "time": "1245-1415",
+                  "room": "E544"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "DELGADILLO SALAS MAYCOL MARCOS",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1715-1845",
+                  "room": "E404"
+                },
+                {
+                  "day": "MA",
+                  "time": "0815-0945",
+                  "room": "E204"
+                },
+                {
+                  "day": "JU",
+                  "time": "0815-0945",
+                  "room": "E520"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "21",
+              "teacher": "MENDOZA ARAOZ JAMIL MARCELO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1715-1845",
+                  "room": "E201"
+                },
+                {
+                  "day": "MI",
+                  "time": "1715-1845",
+                  "room": "E305"
+                },
+                {
+                  "day": "JU",
+                  "time": "1715-1845",
+                  "room": "E305"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "22",
+              "teacher": "CARDENAS SARAVIA TITO IVAN",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "2015-2145",
+                  "room": "E304"
+                },
+                {
+                  "day": "MA",
+                  "time": "2015-2145",
+                  "room": "E304"
+                },
+                {
+                  "day": "MI",
+                  "time": "2015-2145",
+                  "room": "E304"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "23",
+              "teacher": "CARDENAS SARAVIA TITO IVAN",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1715-1845",
+                  "room": "E304"
+                },
+                {
+                  "day": "MA",
+                  "time": "1715-1845",
+                  "room": "E304"
+                },
+                {
+                  "day": "MI",
+                  "time": "1715-1845",
+                  "room": "E304"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301007",
+          "name": "ECONOMIA DE EMPRESAS I",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "PANTOJA ROCHA YURI NEWTON",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1415-1545",
+                  "room": "E110"
+                },
+                {
+                  "day": "MI",
+                  "time": "1415-1545",
+                  "room": "E108"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "SA",
+                      "time": "0815-0945",
+                      "room": "E104"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "ARAUJO COSSIO ALDO ROMEL",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1715-1845",
+                  "room": "E305"
+                },
+                {
+                  "day": "MA",
+                  "time": "1715-1845",
+                  "room": "E204"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "MI",
+                      "time": "1245-1415",
+                      "room": "E524"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "21",
+              "teacher": "DECKER MARQUEZ JOSE",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "2015-2145",
+                  "room": "E504"
+                },
+                {
+                  "day": "VI",
+                  "time": "0645-0815",
+                  "room": "E206"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "VI",
+                      "time": "1415-1545",
+                      "room": "E503"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "22",
+              "teacher": "ZUBIETA FLORIDO FREDDY",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "2015-2145",
+                  "room": "E504"
+                },
+                {
+                  "day": "MI",
+                  "time": "1715-1845",
+                  "room": "E110"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "VI",
+                      "time": "1245-1415",
+                      "room": "E521"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "52",
+              "teacher": "LOZADA TORRICO RUDY REMBERTO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1415-1545",
+                  "room": "E521"
+                },
+                {
+                  "day": "MA",
+                  "time": "1415-1545",
+                  "room": "E520"
+                },
+                {
+                  "day": "MI",
+                  "time": "1415-1545",
+                  "room": "E521"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301008",
+          "name": "CONTABILIDAD II",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "COCA GONZALES ALBERTO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0815-0945",
+                  "room": "E520"
+                },
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "E301"
+                },
+                {
+                  "day": "JU",
+                  "time": "0945-1115",
+                  "room": "E522"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "TORRICO SANCHEZ FELIPE ROBERTO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "E545"
+                },
+                {
+                  "day": "JU",
+                  "time": "1845-2015",
+                  "room": "E521"
+                },
+                {
+                  "day": "VI",
+                  "time": "1845-2015",
+                  "room": "E520"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "21",
+              "teacher": "LOPEZ VALENZUELA JOSE WALTER",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1715-1845",
+                  "room": "E103"
+                },
+                {
+                  "day": "MA",
+                  "time": "2015-2145",
+                  "room": "E509"
+                },
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "E514"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "22",
+              "teacher": "MONTANO VARGAS OSCAR",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1715-1845",
+                  "room": "E523"
+                },
+                {
+                  "day": "MI",
+                  "time": "1715-1845",
+                  "room": "E522"
+                },
+                {
+                  "day": "JU",
+                  "time": "1715-1845",
+                  "room": "E522"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "23",
+              "teacher": "MONTANO VARGAS OSCAR",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "2015-2145",
+                  "room": "E521"
+                },
+                {
+                  "day": "MI",
+                  "time": "2015-2145",
+                  "room": "E524"
+                },
+                {
+                  "day": "JU",
+                  "time": "2015-2145",
+                  "room": "E544"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "24",
+              "teacher": "QUINTANA ALVAREZ JHONNY",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "time": "1245-1415",
+                  "room": "E543"
+                },
+                {
+                  "day": "VI",
+                  "time": "1245-1415",
+                  "room": "E108"
+                },
+                {
+                  "day": "SA",
+                  "time": "0645-0815",
+                  "room": "E542"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301009",
+          "name": "ESTADISTICA I",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "TABORGA ACHA FIDEL",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0815-0945",
+                  "room": "E206"
+                },
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "E206"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "VI",
+                      "time": "1115-1245",
+                      "room": "E502"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "02",
+              "teacher": "VALDIVIEZO MALDONADO LINO JUAN CARLOS",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "time": "0945-1115",
+                  "room": "E205"
+                },
+                {
+                  "day": "VI",
+                  "time": "0945-1115",
+                  "room": "E521"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "MA",
+                      "time": "1115-1245",
+                      "room": "E207"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "03",
+              "teacher": "SUAZNABAR CLAROS FERNANDO ALBERTO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0945-1115",
+                  "room": "E541"
+                },
+                {
+                  "day": "JU",
+                  "time": "0815-0945",
+                  "room": "E522"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "LU",
+                      "time": "1415-1545",
+                      "room": "E204"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "MONTANO QUIROGA CLAUDIA CAROLA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0945-1115",
+                  "room": "E506"
+                },
+                {
+                  "day": "JU",
+                  "time": "0945-1115",
+                  "room": "E502"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "MI",
+                      "time": "1545-1715",
+                      "room": "E504"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "21",
+              "teacher": "BUSTAMANTE MALDONADO FERNANDO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0815-0945",
+                  "room": "E504"
+                },
+                {
+                  "day": "JU",
+                  "time": "1115-1245",
+                  "room": "E522"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "MA",
+                      "time": "1415-1545",
+                      "room": "E523"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301012",
+          "name": "SOCIOLOGIA ORGANIZACIONAL",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "POZO VALLEJOS MARIA ESTHER",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1415-1545",
+                  "room": "E504"
+                },
+                {
+                  "day": "MI",
+                  "time": "1115-1245",
+                  "room": "E504"
+                },
+                {
+                  "day": "VI",
+                  "time": "1415-1545",
+                  "room": "E504"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "ANTEZANA LA FUENTE JORGE CARLOS",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0645-0815",
+                  "room": "E520"
+                },
+                {
+                  "day": "MI",
+                  "time": "0645-0815",
+                  "room": "E520"
+                },
+                {
+                  "day": "JU",
+                  "time": "0645-0815",
+                  "room": "E104"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "21",
+              "teacher": "POZO VALLEJOS MARIA ESTHER",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1545-1715",
+                  "room": "E504"
+                },
+                {
+                  "day": "MI",
+                  "time": "1415-1545",
+                  "room": "E503"
+                },
+                {
+                  "day": "VI",
+                  "time": "1545-1715",
+                  "room": "E504"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "22",
+              "teacher": "ZAMBRANA TRIVENO JOSE EMILIO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1415-1545",
+                  "room": "E504"
+                },
+                {
+                  "day": "MI",
+                  "time": "1415-1545",
+                  "room": "E504"
+                },
+                {
+                  "day": "JU",
+                  "time": "1415-1545",
+                  "room": "E504"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "C",
+      "subjects": [
+        {
+          "code": "1301013",
+          "name": "SISTEMAS ADMINISTRATIVOS",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "ROCHA CHAVEZ LILIAN MARCELA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1245-1415",
+                  "room": "E202"
+                },
+                {
+                  "day": "MI",
+                  "time": "1245-1415",
+                  "room": "E303"
+                },
+                {
+                  "day": "JU",
+                  "time": "1245-1415",
+                  "room": "E206"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "02",
+              "teacher": "LOPEZ GUMUCIO RICARDO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0645-0815",
+                  "room": "E503"
+                },
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "E201"
+                },
+                {
+                  "day": "JU",
+                  "time": "0945-1115",
+                  "room": "E201"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "03",
+              "teacher": "GUZMAN DURAN GONZALO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0945-1115",
+                  "room": "E207"
+                },
+                {
+                  "day": "MA",
+                  "time": "0945-1115",
+                  "room": "EPB-4"
+                },
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "E205"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "04",
+              "teacher": "BADANI LENZ RAFAEL FERNANDO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1845-2015",
+                  "room": "E205"
+                },
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "E522"
+                },
+                {
+                  "day": "JU",
+                  "time": "1845-2015",
+                  "room": "E205"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301014",
+          "name": "ECONOMIA DE EMPRESAS II",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "DECKER MARQUEZ JOSE",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "2015-2145",
+                  "room": "E102"
+                },
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "E520"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "VI",
+                      "time": "2015-2145",
+                      "room": "E101"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "VILLAZON DEL CARPIO OSMAN ERICK",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "time": "0815-0945",
+                  "room": "E503"
+                },
+                {
+                  "day": "VI",
+                  "time": "0815-0945",
+                  "room": "E520"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "LU",
+                      "time": "1245-1415",
+                      "room": "E209"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "21",
+              "teacher": "ROJAS VALVERDE GRISELDA ROSIO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "2015-2145",
+                  "room": "E208"
+                },
+                {
+                  "day": "MI",
+                  "time": "2015-2145",
+                  "room": "E209"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "VI",
+                      "time": "1415-1545",
+                      "room": "E208"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "22",
+              "teacher": "ROJAS VALVERDE GRISELDA ROSIO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "2015-2145",
+                  "room": "E110"
+                },
+                {
+                  "day": "JU",
+                  "time": "2015-2145",
+                  "room": "E109"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "JU",
+                      "time": "1845-2015",
+                      "room": "E202"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "23",
+              "teacher": "ZUBIETA FLORIDO FREDDY",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1545-1715",
+                  "room": "E105"
+                },
+                {
+                  "day": "MA",
+                  "time": "1545-1715",
+                  "room": "E106"
+                },
+                {
+                  "day": "MI",
+                  "time": "1545-1715",
+                  "room": "E105"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301015",
+          "name": "TEORIA DE COSTOS",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "LEDEZMA BELTRAN GUSTAVO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1245-1415",
+                  "room": "E107"
+                },
+                {
+                  "day": "MI",
+                  "time": "1245-1415",
+                  "room": "E520"
+                },
+                {
+                  "day": "JU",
+                  "time": "1245-1415",
+                  "room": "E105"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "VI",
+                      "time": "1245-1415",
+                      "room": "E105"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 360
+            },
+            {
+              "code": "20",
+              "teacher": "CAMACHO PRADO OMAR ALEJANDRO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1715-1845",
+                  "room": "E302"
+                },
+                {
+                  "day": "MA",
+                  "time": "0645-0815",
+                  "room": "E201"
+                },
+                {
+                  "day": "JU",
+                  "time": "0645-0815",
+                  "room": "E523"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "VI",
+                      "time": "1545-1715",
+                      "room": "E520"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 360
+            },
+            {
+              "code": "21",
+              "teacher": "LEDEZMA BELTRAN GUSTAVO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1715-1845",
+                  "room": "E544"
+                },
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "E523"
+                },
+                {
+                  "day": "JU",
+                  "time": "1845-2015",
+                  "room": "E522"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "LU",
+                      "time": "1415-1545",
+                      "room": "E209"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 360
+            },
+            {
+              "code": "22",
+              "teacher": "CAMACHO PRADO OMAR ALEJANDRO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0815-0945",
+                  "room": "E206"
+                },
+                {
+                  "day": "MI",
+                  "time": "1115-1245",
+                  "room": "E206"
+                },
+                {
+                  "day": "JU",
+                  "time": "0945-1115",
+                  "room": "E206"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "JU",
+                      "time": "1115-1245",
+                      "room": "E206"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 360
+            },
+            {
+              "code": "23",
+              "teacher": "MORALES GUZMAN CESAR",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1415-1545",
+                  "room": "E206"
+                },
+                {
+                  "day": "JU",
+                  "time": "1415-1545",
+                  "room": "E206"
+                },
+                {
+                  "day": "VI",
+                  "time": "1415-1545",
+                  "room": "E206"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301016",
+          "name": "ESTADISTICA II",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "MANSILLA HEREDIA ALFREDO EDUARDO",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "time": "0815-0945",
+                  "room": "E101"
+                },
+                {
+                  "day": "SA",
+                  "time": "1115-1245",
+                  "room": "E208"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "JU",
+                      "time": "1245-1415",
+                      "room": "E520"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "02",
+              "teacher": "POR DESIGNAR DOCENTE",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "E404"
+                },
+                {
+                  "day": "JU",
+                  "time": "1845-2015",
+                  "room": "E404"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "MA",
+                      "time": "1545-1715",
+                      "room": "E105"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "07",
+              "teacher": "URQUIDI BELLIDO SONIA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1115-1245",
+                  "room": "EPB-4"
+                },
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "E401"
+                },
+                {
+                  "day": "JU",
+                  "time": "0945-1115",
+                  "room": "EPB-1"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "JALDIN QUIROZ RENE",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0645-0815",
+                  "room": "E522"
+                },
+                {
+                  "day": "JU",
+                  "time": "0645-0815",
+                  "room": "E522"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "VI",
+                      "time": "1245-1415",
+                      "room": "E503"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "21",
+              "teacher": "CONDORI ARIAS HERMOGENES",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1715-1845",
+                  "room": "E504"
+                },
+                {
+                  "day": "VI",
+                  "time": "1715-1845",
+                  "room": "E521"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "JU",
+                      "time": "1715-1845",
+                      "room": "E202"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "22",
+              "teacher": "JALDIN QUIROZ RENE",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "EPB-2"
+                },
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "E107"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "JU",
+                      "time": "1715-1845",
+                      "room": "E110"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "27",
+              "teacher": "URQUIDI BELLIDO SONIA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0645-0815",
+                  "room": "E524"
+                },
+                {
+                  "day": "JU",
+                  "time": "0645-0815",
+                  "room": "EPB-1"
+                },
+                {
+                  "day": "VI",
+                  "time": "0645-0815",
+                  "room": "E406"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301017",
+          "name": "MACROECONOMIA",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "TORRES ARANDIA WILLIAM",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1245-1415",
+                  "room": "E544"
+                },
+                {
+                  "day": "MI",
+                  "time": "1245-1415",
+                  "room": "E521"
+                },
+                {
+                  "day": "JU",
+                  "time": "1245-1415",
+                  "room": "E545"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "02",
+              "teacher": "ROMERO PADILLA CESAR",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1715-1845",
+                  "room": "E202"
+                },
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "E502"
+                },
+                {
+                  "day": "JU",
+                  "time": "1845-2015",
+                  "room": "E203"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "VILLAZON DEL CARPIO OSMAN ERICK",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1115-1245",
+                  "room": "E546"
+                },
+                {
+                  "day": "JU",
+                  "time": "1115-1245",
+                  "room": "E546"
+                },
+                {
+                  "day": "VI",
+                  "time": "1115-1245",
+                  "room": "E544"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "21",
+              "teacher": "CONDORI ARIAS HERMOGENES",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1715-1845",
+                  "room": "E502"
+                },
+                {
+                  "day": "JU",
+                  "time": "1715-1845",
+                  "room": "E206"
+                },
+                {
+                  "day": "VI",
+                  "time": "1845-2015",
+                  "room": "E206"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "22",
+              "teacher": "POR DESIGNAR DOCENTE",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0945-1115",
+                  "room": "E504"
+                },
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "E204"
+                },
+                {
+                  "day": "VI",
+                  "time": "0945-1115",
+                  "room": "E201"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "23",
+              "teacher": "ESCALERA MELGAR ALBERTO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "E102"
+                },
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "E204"
+                },
+                {
+                  "day": "JU",
+                  "time": "1845-2015",
+                  "room": "EPB-1"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "27",
+              "teacher": "ZUBIETA FLORIDO FREDDY",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1845-2015",
+                  "room": "E309"
+                },
+                {
+                  "day": "MA",
+                  "time": "1715-1845",
+                  "room": "E205"
+                },
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "E501"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "D",
+      "subjects": [
+        {
+          "code": "1301018",
+          "name": "PROCEDIMIENTOS ADMINISTRATIVOS",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "LOPEZ GUMUCIO RICARDO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0945-1115",
+                  "room": "E524"
+                },
+                {
+                  "day": "MA",
+                  "time": "0945-1115",
+                  "room": "E504"
+                },
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "E202"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "02",
+              "teacher": "GUZMAN DURAN GONZALO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1245-1415",
+                  "room": "E502"
+                },
+                {
+                  "day": "MA",
+                  "time": "1245-1415",
+                  "room": "E521"
+                },
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "E208"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "21",
+              "teacher": "CARDENAS SARAVIA TITO IVAN",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1845-2015",
+                  "room": "E304"
+                },
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "E304"
+                },
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "E304"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301019",
+          "name": "PRESUPUESTOS",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "MARTINEZ ALPIRI ANAHI MONICA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0815-0945",
+                  "room": "E544"
+                },
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "E544"
+                },
+                {
+                  "day": "JU",
+                  "time": "0815-0945",
+                  "room": "E541"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "02",
+              "teacher": "CACERES MONTERO JAIME",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0815-0945",
+                  "room": "E541"
+                },
+                {
+                  "day": "MA",
+                  "time": "0815-0945",
+                  "room": "E508"
+                },
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "E541"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "TORRICO LARA ALEX",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0645-0815",
+                  "room": "E545"
+                },
+                {
+                  "day": "MI",
+                  "time": "0645-0815",
+                  "room": "E102"
+                },
+                {
+                  "day": "JU",
+                  "time": "1715-1845",
+                  "room": "E109"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "21",
+              "teacher": "CACERES MONTERO JAIME",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1845-2015",
+                  "room": "E206"
+                },
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "E204"
+                },
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "EPB-4"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301020",
+          "name": "INFORMATICA I",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "MONTANO QUIROGA VICTOR HUGO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0815-0945",
+                  "room": "E401"
+                },
+                {
+                  "day": "MA",
+                  "time": "0815-0945",
+                  "room": "E406"
+                },
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "E406"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "02",
+              "teacher": "VELARDE POMA JUAN CARLOS",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "0645-0815",
+                  "room": "E548"
+                },
+                {
+                  "day": "JU",
+                  "time": "0645-0815",
+                  "room": "E548"
+                },
+                {
+                  "day": "VI",
+                  "time": "0645-0815",
+                  "room": "E548"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "SANDOVAL ARNEZ JUAN ALBERTO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "2015-2145",
+                  "room": "E547"
+                },
+                {
+                  "day": "JU",
+                  "time": "0645-0815",
+                  "room": "E547"
+                },
+                {
+                  "day": "SA",
+                  "time": "0815-0945",
+                  "room": "E401"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "21",
+              "teacher": "TORRICO OCAMPO ENRIQUE",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1245-1415",
+                  "room": "E402"
+                },
+                {
+                  "day": "MI",
+                  "time": "1245-1415",
+                  "room": "E402"
+                },
+                {
+                  "day": "JU",
+                  "time": "1245-1415",
+                  "room": "E402"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "22",
+              "teacher": "CAMACHO DEL CASTILLO INDIRA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1115-1245",
+                  "room": "E406"
+                },
+                {
+                  "day": "MI",
+                  "time": "1115-1245",
+                  "room": "E401"
+                },
+                {
+                  "day": "JU",
+                  "time": "1115-1245",
+                  "room": "E406"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "23",
+              "teacher": "JORDAN SANCHEZ JUAN CARLOS",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "2015-2145",
+                  "room": "E407"
+                },
+                {
+                  "day": "JU",
+                  "time": "2015-2145",
+                  "room": "E402"
+                },
+                {
+                  "day": "SA",
+                  "time": "0815-0945",
+                  "room": "E406"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301021",
+          "name": "COSTOS PARA LA TOMA DE DECISIONES",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "RIVERA MICHEL HENRY",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1245-1415",
+                  "room": "EPB-2"
+                },
+                {
+                  "day": "JU",
+                  "time": "1245-1415",
+                  "room": "EPB-2"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "VI",
+                      "time": "1545-1715",
+                      "room": "E104"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "02",
+              "teacher": "CHOQUEPALPA RIOZ ORLANDO DANIEL",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "time": "0815-0945",
+                  "room": "E504"
+                },
+                {
+                  "day": "VI",
+                  "time": "0815-0945",
+                  "room": "E109"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "JU",
+                      "time": "1415-1545",
+                      "room": "EPB-4"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "03",
+              "teacher": "RIVERA MICHEL HENRY",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "E544"
+                },
+                {
+                  "day": "JU",
+                  "time": "1845-2015",
+                  "room": "E511"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "LU",
+                      "time": "1545-1715",
+                      "room": "E503"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "RIVERA MICHEL HENRY",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1715-1845",
+                  "room": "E408"
+                },
+                {
+                  "day": "MI",
+                  "time": "1715-1845",
+                  "room": "E544"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "JU",
+                      "time": "1245-1415",
+                      "room": "E544"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "21",
+              "teacher": "CHOQUEPALPA RIOZ ORLANDO DANIEL",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "time": "0645-0815",
+                  "room": "E109"
+                },
+                {
+                  "day": "VI",
+                  "time": "0645-0815",
+                  "room": "E502"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "VI",
+                      "time": "1715-1845",
+                      "room": "E203"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "22",
+              "teacher": "RIVERA MICHEL HENRY",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "E530"
+                },
+                {
+                  "day": "JU",
+                  "time": "1715-1845",
+                  "room": "E546"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "SA",
+                      "time": "1115-1245",
+                      "room": "E205"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301022",
+          "name": "ANALISIS DE ESTADOS FINANCIEROS",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "PRADEL SERRANO RUTH ISABEL",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1845-2015",
+                  "room": "E520"
+                },
+                {
+                  "day": "MI",
+                  "time": "0645-0815",
+                  "room": "E521"
+                },
+                {
+                  "day": "VI",
+                  "time": "0645-0815",
+                  "room": "E521"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "02",
+              "teacher": "COCA GONZALES ALBERTO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0645-0815",
+                  "room": "E209"
+                },
+                {
+                  "day": "MI",
+                  "time": "0645-0815",
+                  "room": "E523"
+                },
+                {
+                  "day": "JU",
+                  "time": "0645-0815",
+                  "room": "E101"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "03",
+              "teacher": "MONTANO VARGAS OSCAR",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "E109"
+                },
+                {
+                  "day": "MI",
+                  "time": "0645-0815",
+                  "room": "E404"
+                },
+                {
+                  "day": "JU",
+                  "time": "1845-2015",
+                  "room": "E204"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "LOPEZ LOPEZ JAIME",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "E503"
+                },
+                {
+                  "day": "VI",
+                  "time": "1845-2015",
+                  "room": "E521"
+                },
+                {
+                  "day": "SA",
+                  "time": "0945-1115",
+                  "room": "E522"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "21",
+              "teacher": "MONTANO VARGAS OSCAR",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0645-0815",
+                  "room": "E520"
+                },
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "E206"
+                },
+                {
+                  "day": "JU",
+                  "time": "0645-0815",
+                  "room": "E520"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "E",
+      "subjects": [
+        {
+          "code": "1301010",
+          "name": "INGLES I",
+          "groups": [
+            {
+              "code": "08",
+              "teacher": "PARDO FERNANDEZ JULIO FRANCO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0945-1115",
+                  "room": "E108"
+                },
+                {
+                  "day": "MA",
+                  "time": "0945-1115",
+                  "room": "E207"
+                },
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "EPB-4"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "A1",
+              "teacher": "VALLEJO ECHEVERRIA JULIAN",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0815-0945",
+                  "room": "E306"
+                },
+                {
+                  "day": "MA",
+                  "time": "0815-0945",
+                  "room": "E303"
+                },
+                {
+                  "day": "JU",
+                  "time": "0815-0945",
+                  "room": "E517"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301023",
+          "name": "METODOLOGIA DE INVESTIGACION II",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "VALLEJO BELTRAN ENZO MAURICIO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1115-1245",
+                  "room": "E506"
+                },
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "E209"
+                },
+                {
+                  "day": "JU",
+                  "time": "1115-1245",
+                  "room": "E501"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "SEVILLA CESPEDES CLAUDIA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0815-0945",
+                  "room": "E303"
+                },
+                {
+                  "day": "MA",
+                  "time": "0815-0945",
+                  "room": "E103"
+                },
+                {
+                  "day": "MI",
+                  "time": "1115-1245",
+                  "room": "E202"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "21",
+              "teacher": "ZAMBRANA TRIVENO JOSE EMILIO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1115-1245",
+                  "room": "E504"
+                },
+                {
+                  "day": "MI",
+                  "time": "1115-1245",
+                  "room": "E518"
+                },
+                {
+                  "day": "JU",
+                  "time": "1115-1245",
+                  "room": "E504"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "22",
+              "teacher": "MANZANO ANZALDO NELSON TITO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1715-1845",
+                  "room": "E108"
+                },
+                {
+                  "day": "MA",
+                  "time": "1545-1715",
+                  "room": "E108"
+                },
+                {
+                  "day": "JU",
+                  "time": "1545-1715",
+                  "room": "E107"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301024",
+          "name": "INFORMATICA II",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "GUEVARA ESPINOZA JORGE",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0645-0815",
+                  "room": "E406"
+                },
+                {
+                  "day": "MA",
+                  "time": "2015-2145",
+                  "room": "E402"
+                },
+                {
+                  "day": "JU",
+                  "time": "0645-0815",
+                  "room": "E406"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "02",
+              "teacher": "RODRIGUEZ MARTINEZ EDUARDO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "2015-2145",
+                  "room": "E401"
+                },
+                {
+                  "day": "JU",
+                  "time": "1845-2015",
+                  "room": "E401"
+                },
+                {
+                  "day": "SA",
+                  "time": "0945-1115",
+                  "room": "E402"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "03",
+              "teacher": "COVARRUBIAS VARGAS CAUJMAN",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1245-1415",
+                  "room": "E401"
+                },
+                {
+                  "day": "MI",
+                  "time": "1245-1415",
+                  "room": "E401"
+                },
+                {
+                  "day": "JU",
+                  "time": "1245-1415",
+                  "room": "E401"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "AVILA MAMANI HECTOR JOSE",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1845-2015",
+                  "room": "E401"
+                },
+                {
+                  "day": "MA",
+                  "time": "0645-0815",
+                  "room": "E407"
+                },
+                {
+                  "day": "MI",
+                  "time": "0645-0815",
+                  "room": "E550"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301025",
+          "name": "LEGISLACION LABORAL",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "MUNOZ CRESPO ALBERTO DANIEL",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0815-0945",
+                  "room": "E202"
+                },
+                {
+                  "day": "JU",
+                  "time": "0815-0945",
+                  "room": "E206"
+                },
+                {
+                  "day": "VI",
+                  "time": "0815-0945",
+                  "room": "E524"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "02",
+              "teacher": "MUNOZ CRESPO ALBERTO DANIEL",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1115-1245",
+                  "room": "E102"
+                },
+                {
+                  "day": "JU",
+                  "time": "0945-1115",
+                  "room": "E109"
+                },
+                {
+                  "day": "VI",
+                  "time": "1115-1245",
+                  "room": "E101"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "AMURRIO MARQUEZ MARY",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "0645-0815",
+                  "room": "E502"
+                },
+                {
+                  "day": "VI",
+                  "time": "0645-0815",
+                  "room": "E204"
+                },
+                {
+                  "day": "SA",
+                  "time": "0645-0815",
+                  "room": "E201"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301026",
+          "name": "PSICOLOGIA ORGANIZACIONAL",
+          "groups": [
+            {
+              "code": "20",
+              "teacher": "PARDO FERNANDEZ JULIO FRANCO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1715-1845",
+                  "room": "E109"
+                },
+                {
+                  "day": "MA",
+                  "time": "0645-0815",
+                  "room": "EPB-4"
+                },
+                {
+                  "day": "MI",
+                  "time": "1715-1845",
+                  "room": "E302"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "21",
+              "teacher": "VILDOZO ZAMORANO WALTER FERNANDO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0815-0945",
+                  "room": "E104"
+                },
+                {
+                  "day": "VI",
+                  "time": "0815-0945",
+                  "room": "E102"
+                },
+                {
+                  "day": "SA",
+                  "time": "0815-0945",
+                  "room": "E503"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "22",
+              "teacher": "VILLAZON ARANDIA RICARDO IVAN",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "2015-2145",
+                  "room": "E546"
+                },
+                {
+                  "day": "MI",
+                  "time": "2015-2145",
+                  "room": "E544"
+                },
+                {
+                  "day": "JU",
+                  "time": "2015-2145",
+                  "room": "E541"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "23",
+              "teacher": "RODRIGUEZ HURTADO JOSE LUIS",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1715-1845",
+                  "room": "E404"
+                },
+                {
+                  "day": "MI",
+                  "time": "1715-1845",
+                  "room": "E408"
+                },
+                {
+                  "day": "JU",
+                  "time": "1715-1845",
+                  "room": "E404"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301027",
+          "name": "ADMINISTRACION PUBLICA",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "ESPADA FLORES JUAN RAMIRO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1245-1415",
+                  "room": "E523"
+                },
+                {
+                  "day": "JU",
+                  "time": "1115-1245",
+                  "room": "E524"
+                },
+                {
+                  "day": "SA",
+                  "time": "0815-0945",
+                  "room": "E520"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "02",
+              "teacher": "RODRIGUEZ MARTINEZ EDUARDO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "2015-2145",
+                  "room": "E524"
+                },
+                {
+                  "day": "JU",
+                  "time": "2015-2145",
+                  "room": "E521"
+                },
+                {
+                  "day": "SA",
+                  "time": "1115-1245",
+                  "room": "E504"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "POR DESIGNAR DOCENTE",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "E209"
+                },
+                {
+                  "day": "JU",
+                  "time": "1845-2015",
+                  "room": "E520"
+                },
+                {
+                  "day": "VI",
+                  "time": "1845-2015",
+                  "room": "E110"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "21",
+              "teacher": "PANTOJA ROCHA YURI NEWTON",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1245-1415",
+                  "room": "E108"
+                },
+                {
+                  "day": "JU",
+                  "time": "1245-1415",
+                  "room": "E104"
+                },
+                {
+                  "day": "VI",
+                  "time": "1245-1415",
+                  "room": "E109"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "22",
+              "teacher": "AYALA MENDOZA AMILCAR",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1845-2015",
+                  "room": "E302"
+                },
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "E104"
+                },
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "E307"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "F",
+      "subjects": [
+        {
+          "code": "1301011",
+          "name": "INGLES II",
+          "groups": [
+            {
+              "code": "07",
+              "teacher": "PARDO FERNANDEZ JULIO FRANCO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0815-0945",
+                  "room": "E209"
+                },
+                {
+                  "day": "MA",
+                  "time": "0815-0945",
+                  "room": "E209"
+                },
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "E207"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "B1",
+              "teacher": "VALLEJO ECHEVERRIA JULIAN",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1115-1245",
+                  "room": "E109"
+                },
+                {
+                  "day": "MA",
+                  "time": "1115-1245",
+                  "room": "E304"
+                },
+                {
+                  "day": "JU",
+                  "time": "1115-1245",
+                  "room": "E103"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301028",
+          "name": "PRODUCCION I",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "CALLA VILLEGAS EDWIN",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1545-1715",
+                  "room": "E106"
+                },
+                {
+                  "day": "JU",
+                  "time": "1545-1715",
+                  "room": "E106"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "02",
+              "teacher": "CALLA VILLEGAS EDWIN",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1715-1845",
+                  "room": "E506"
+                },
+                {
+                  "day": "MI",
+                  "time": "1715-1845",
+                  "room": "E109"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "03",
+              "teacher": "ZAPATA BARRIENTOS JOSE RAMIRO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0815-0945",
+                  "room": "E502"
+                },
+                {
+                  "day": "MA",
+                  "time": "0815-0945",
+                  "room": "E511"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "20",
+              "teacher": "ZAPATA BARRIENTOS JOSE RAMIRO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1115-1245",
+                  "room": "E103"
+                },
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "E502"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        },
+        {
+          "code": "1301029",
+          "name": "FINANZAS I",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "LEYTON GUTIERREZ SONIA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1115-1245",
+                  "room": "E523"
+                },
+                {
+                  "day": "MI",
+                  "time": "1115-1245",
+                  "room": "E524"
+                },
+                {
+                  "day": "JU",
+                  "time": "0945-1115",
+                  "room": "E304"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "AGREDA MONTANO GUIDO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0945-1115",
+                  "room": "E521"
+                },
+                {
+                  "day": "MA",
+                  "time": "0945-1115",
+                  "room": "E521"
+                },
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "E523"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "21",
+              "teacher": "SUAZNABAR CLAROS FERNANDO ALBERTO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1715-1845",
+                  "room": "E545"
+                },
+                {
+                  "day": "MI",
+                  "time": "1715-1845",
+                  "room": "E545"
+                },
+                {
+                  "day": "VI",
+                  "time": "0645-0815",
+                  "room": "E520"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301030",
+          "name": "INVESTIGACION OPERATIVA",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "VILLAGOMEZ VILLARROEL CESAR",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1715-1845",
+                  "room": "E542"
+                },
+                {
+                  "day": "VI",
+                  "time": "1715-1845",
+                  "room": "E544"
+                },
+                {
+                  "day": "SA",
+                  "time": "0815-0945",
+                  "room": "E544"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "VALDEZ ESCOBAR JORGE",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0945-1115",
+                  "room": "E404"
+                },
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "E522"
+                },
+                {
+                  "day": "VI",
+                  "time": "0945-1115",
+                  "room": "E522"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "21",
+              "teacher": "VALDEZ ESCOBAR JORGE",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1115-1245",
+                  "room": "E404"
+                },
+                {
+                  "day": "MI",
+                  "time": "1115-1245",
+                  "room": "E404"
+                },
+                {
+                  "day": "VI",
+                  "time": "1115-1245",
+                  "room": "E404"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "22",
+              "teacher": "VILLAGOMEZ VILLARROEL CESAR",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "2015-2145",
+                  "room": "E544"
+                },
+                {
+                  "day": "JU",
+                  "time": "2015-2145",
+                  "room": "E546"
+                },
+                {
+                  "day": "SA",
+                  "time": "1115-1245",
+                  "room": "E544"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301031",
+          "name": "MERCADOTECNIA I",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "CALLA VILLEGAS EDWIN",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1545-1715",
+                  "room": "E109"
+                },
+                {
+                  "day": "MI",
+                  "time": "1545-1715",
+                  "room": "E109"
+                },
+                {
+                  "day": "VI",
+                  "time": "1545-1715",
+                  "room": "E201"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "ZEGARRA SALDANA PABLO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "2015-2145",
+                  "room": "E205"
+                },
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "E103"
+                },
+                {
+                  "day": "MI",
+                  "time": "0645-0815",
+                  "room": "E205"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "21",
+              "teacher": "NAVIA QUIROGA GUSTAVO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "2015-2145",
+                  "room": "EPB-4"
+                },
+                {
+                  "day": "VI",
+                  "time": "1715-1845",
+                  "room": "E502"
+                },
+                {
+                  "day": "SA",
+                  "time": "0945-1115",
+                  "room": "E503"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301032",
+          "name": "PERSONAL I",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "BADANI LENZ RAFAEL FERNANDO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "E503"
+                },
+                {
+                  "day": "JU",
+                  "time": "2015-2145",
+                  "room": "E203"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "VI",
+                      "time": "1115-1245",
+                      "room": "E201"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "02",
+              "teacher": "GUZMAN BROCKMANN FELIPE HANS WIGBERTO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0645-0815",
+                  "room": "E504"
+                },
+                {
+                  "day": "MI",
+                  "time": "0645-0815",
+                  "room": "EPB-4"
+                },
+                {
+                  "day": "VI",
+                  "time": "0645-0815",
+                  "room": "EPB-4"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "BADANI LENZ RAFAEL FERNANDO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1245-1415",
+                  "room": "EPB-4"
+                },
+                {
+                  "day": "JU",
+                  "time": "1245-1415",
+                  "room": "E523"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "VI",
+                      "time": "1245-1415",
+                      "room": "E202"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "21",
+              "teacher": "CRESPO FLORES RENE CARLOS",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1415-1545",
+                  "room": "E520"
+                },
+                {
+                  "day": "MI",
+                  "time": "1545-1715",
+                  "room": "E201"
+                },
+                {
+                  "day": "VI",
+                  "time": "1545-1715",
+                  "room": "E521"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "G",
+      "subjects": [
+        {
+          "code": "1301033",
+          "name": "PRODUCCION II",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "ZAPATA BARRIENTOS JOSE RAMIRO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0945-1115",
+                  "room": "E502"
+                },
+                {
+                  "day": "MA",
+                  "time": "0945-1115",
+                  "room": "E502"
+                },
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "E502"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "02",
+              "teacher": "VALDIVIEZO MALDONADO LINO JUAN",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0645-0815",
+                  "room": "E207"
+                },
+                {
+                  "day": "MA",
+                  "time": "0645-0815",
+                  "room": "E204"
+                },
+                {
+                  "day": "MI",
+                  "time": "0645-0815",
+                  "room": "E207"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "CALLA VILLEGAS EDWIN",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1415-1545",
+                  "room": "E109"
+                },
+                {
+                  "day": "JU",
+                  "time": "1415-1545",
+                  "room": "E109"
+                },
+                {
+                  "day": "VI",
+                  "time": "1415-1545",
+                  "room": "E109"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301034",
+          "name": "MERCADOTECNIA II",
+          "groups": [
+            {
+              "code": "02",
+              "teacher": "NAVIA QUIROGA GUSTAVO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1715-1845",
+                  "room": "E502"
+                },
+                {
+                  "day": "MA",
+                  "time": "1715-1845",
+                  "room": "E504"
+                },
+                {
+                  "day": "JU",
+                  "time": "1715-1845",
+                  "room": "E502"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "AYMA SOTO FELIX MARCELO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0945-1115",
+                  "room": "E301"
+                },
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "E504"
+                },
+                {
+                  "day": "JU",
+                  "time": "0945-1115",
+                  "room": "E302"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301035",
+          "name": "GERENCIA OPERATIVA",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "VARGAS ANTEZANA ADEMAR MARCELO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1415-1545",
+                  "room": "EPB-4"
+                },
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "E522"
+                },
+                {
+                  "day": "JU",
+                  "time": "1415-1545",
+                  "room": "E523"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "MOSCOSO FORONDA DAVID",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1715-1845",
+                  "room": "E209"
+                },
+                {
+                  "day": "MI",
+                  "time": "1715-1845",
+                  "room": "E209"
+                },
+                {
+                  "day": "JU",
+                  "time": "1715-1845",
+                  "room": "E209"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "21",
+              "teacher": "MOSCOSO FORONDA DAVID",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "2015-2145",
+                  "room": "E307"
+                },
+                {
+                  "day": "MI",
+                  "time": "2015-2145",
+                  "room": "E307"
+                },
+                {
+                  "day": "JU",
+                  "time": "2015-2145",
+                  "room": "E307"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "22",
+              "teacher": "MOSCOSO FORONDA DAVID",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "E309"
+                },
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "E302"
+                },
+                {
+                  "day": "JU",
+                  "time": "1845-2015",
+                  "room": "E304"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301036",
+          "name": "MERCADOTECNIA III",
+          "groups": [
+            {
+              "code": "20",
+              "teacher": "ZEGARRA SALDANA PABLO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1845-2015",
+                  "room": "E521"
+                },
+                {
+                  "day": "MA",
+                  "time": "2015-2145",
+                  "room": "E203"
+                },
+                {
+                  "day": "MI",
+                  "time": "1245-1415",
+                  "room": "E106"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "21",
+              "teacher": "ZAPATA BARRIENTOS JOSE RAMIRO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0645-0815",
+                  "room": "E307"
+                },
+                {
+                  "day": "MA",
+                  "time": "0645-0815",
+                  "room": "E203"
+                },
+                {
+                  "day": "MI",
+                  "time": "0645-0815",
+                  "room": "E525"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301038",
+          "name": "MERCADOTECNIA V",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "ZAPATA BARRIENTOS JOSE RAMIRO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1415-1545",
+                  "room": "E502"
+                },
+                {
+                  "day": "MA",
+                  "time": "1115-1245",
+                  "room": "E503"
+                },
+                {
+                  "day": "MI",
+                  "time": "1115-1245",
+                  "room": "E101"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301039",
+          "name": "FINANZAS II",
+          "groups": [
+            {
+              "code": "20",
+              "teacher": "AGREDA MONTANO GUIDO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0815-0945",
+                  "room": "E521"
+                },
+                {
+                  "day": "MA",
+                  "time": "0815-0945",
+                  "room": "E521"
+                },
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "E523"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301040",
+          "name": "ADMINISTRACION DE COOPERATIVAS",
+          "groups": [
+            {
+              "code": "20",
+              "teacher": "AGREDA MONTANO GUIDO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1545-1715",
+                  "room": "E521"
+                },
+                {
+                  "day": "MA",
+                  "time": "1545-1715",
+                  "room": "E522"
+                },
+                {
+                  "day": "MI",
+                  "time": "1545-1715",
+                  "room": "E523"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301041",
+          "name": "PERSONAL II",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "MENDOZA ARAOZ JAMIL MARCELO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "E521"
+                },
+                {
+                  "day": "JU",
+                  "time": "1845-2015",
+                  "room": "E102"
+                },
+                {
+                  "day": "SA",
+                  "time": "0945-1115",
+                  "room": "E502"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "RAMIREZ MOLINA GONZALO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1715-1845",
+                  "room": "E206"
+                },
+                {
+                  "day": "MA",
+                  "time": "1715-1845",
+                  "room": "E501"
+                },
+                {
+                  "day": "MI",
+                  "time": "1715-1845",
+                  "room": "E207"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "21",
+              "teacher": "MENDOZA ARAOZ JAMIL MARCELO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1715-1845",
+                  "room": "E110"
+                },
+                {
+                  "day": "VI",
+                  "time": "1715-1845",
+                  "room": "E304"
+                },
+                {
+                  "day": "SA",
+                  "time": "1115-1245",
+                  "room": "E102"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301042",
+          "name": "PERSONAL III",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "VALDEZ ZEGARRA RAFAEL A.",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "2015-2145",
+                  "room": "E202"
+                },
+                {
+                  "day": "JU",
+                  "time": "1845-2015",
+                  "room": "E502"
+                },
+                {
+                  "day": "SA",
+                  "time": "0815-0945",
+                  "room": "E522"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "H",
+      "subjects": [
+        {
+          "code": "1301043",
+          "name": "POLITICA EMPRESARIAL",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "CAMACHO GUZMAN FRANCO ARTURO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0945-1115",
+                  "room": "E309"
+                },
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "E309"
+                },
+                {
+                  "day": "JU",
+                  "time": "0815-0945",
+                  "room": "E109"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "02",
+              "teacher": "GUTIERREZ OVANDO ISELA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1545-1715",
+                  "room": "E542"
+                },
+                {
+                  "day": "MI",
+                  "time": "1115-1245",
+                  "room": "E209"
+                },
+                {
+                  "day": "JU",
+                  "time": "1545-1715",
+                  "room": "E306"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "RODRIGUEZ HURTADO JOSE LUIS",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0945-1115",
+                  "room": "E204"
+                },
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "E305"
+                },
+                {
+                  "day": "JU",
+                  "time": "0945-1115",
+                  "room": "E204"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301044",
+          "name": "PREPARACION Y EVALUACION DE PROYECTOS",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "OLIVERA TAPIA JUAN CARLOS",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0815-0945",
+                  "room": "E204"
+                },
+                {
+                  "day": "MA",
+                  "time": "0815-0945",
+                  "room": "E523"
+                },
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "E513"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "CHAVEZ MARCELA MABEL",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1845-2015",
+                  "room": "E203"
+                },
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "E207"
+                },
+                {
+                  "day": "SA",
+                  "time": "0815-0945",
+                  "room": "E203"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "21",
+              "teacher": "CHAVEZ MARCELA MABEL",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "2015-2145",
+                  "room": "E203"
+                },
+                {
+                  "day": "MI",
+                  "time": "2015-2145",
+                  "room": "E202"
+                },
+                {
+                  "day": "SA",
+                  "time": "0945-1115",
+                  "room": "E202"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301045",
+          "name": "TALLER I",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "VILDOZO ZAMORANO WALTER FERNANDO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0945-1115",
+                  "room": "E106"
+                },
+                {
+                  "day": "JU",
+                  "time": "2015-2145",
+                  "room": "E209"
+                },
+                {
+                  "day": "VI",
+                  "time": "0945-1115",
+                  "room": "E109"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "03",
+              "teacher": "RODRIGUEZ HURTADO JOSE LUIS",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0815-0945",
+                  "room": "E304"
+                },
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "E110"
+                },
+                {
+                  "day": "JU",
+                  "time": "0815-0945",
+                  "room": "E103"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "22",
+              "teacher": "LOPEZ GUMUCIO RICARDO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0645-0815",
+                  "room": "ADM1"
+                },
+                {
+                  "day": "MI",
+                  "time": "0645-0815",
+                  "room": "ADM1"
+                },
+                {
+                  "day": "JU",
+                  "time": "0645-0815",
+                  "room": "ADM1"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "23",
+              "teacher": "VALDIVIEZO MALDONADO LINO JUAN CARLOS",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0945-1115",
+                  "room": "ADM1"
+                },
+                {
+                  "day": "JU",
+                  "time": "1115-1245",
+                  "room": "ADM1"
+                },
+                {
+                  "day": "VI",
+                  "time": "1115-1245",
+                  "room": "ADM1"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301046",
+          "name": "MERCADOTECNIA VI",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "LOZADA TORRICO RUDY REMBERTO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1845-2015",
+                  "room": "E501"
+                },
+                {
+                  "day": "MA",
+                  "time": "2015-2145",
+                  "room": "E303"
+                },
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "E201"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "02",
+              "teacher": "MEDRANO CLAURE DANNY OSCAR",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0945-1115",
+                  "room": "E203"
+                },
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "E203"
+                },
+                {
+                  "day": "VI",
+                  "time": "0945-1115",
+                  "room": "E208"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301047",
+          "name": "MERCADOTECNIA VII",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "MENDOZA ARAOZ JAMIL MARCELO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "2015-2145",
+                  "room": "E101"
+                },
+                {
+                  "day": "MI",
+                  "time": "2015-2145",
+                  "room": "E103"
+                },
+                {
+                  "day": "JU",
+                  "time": "2015-2145",
+                  "room": "E103"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301048",
+          "name": "FINANZAS IV",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "VALLEJO RUIZ JAVIER",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "2015-2145",
+                  "room": "E503"
+                },
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "E110"
+                },
+                {
+                  "day": "SA",
+                  "time": "0945-1115",
+                  "room": "E207"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "RODRIGUEZ MARTINEZ EDUARDO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "E203"
+                },
+                {
+                  "day": "MI",
+                  "time": "2015-2145",
+                  "room": "E523"
+                },
+                {
+                  "day": "VI",
+                  "time": "1845-2015",
+                  "room": "E522"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301049",
+          "name": "FINANZAS V",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "RODRIGUEZ MARTINEZ EDUARDO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1845-2015",
+                  "room": "E522"
+                },
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "E524"
+                },
+                {
+                  "day": "VI",
+                  "time": "2015-2145",
+                  "room": "E521"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301050",
+          "name": "PERSONAL IV",
+          "groups": [
+            {
+              "code": "20",
+              "teacher": "GUZMAN BROCKMANN FELIPE HANS WIGBERTO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1845-2015",
+                  "room": "E202"
+                },
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "E504"
+                },
+                {
+                  "day": "VI",
+                  "time": "1845-2015",
+                  "room": "E205"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301051",
+          "name": "PERSONAL V",
+          "groups": [
+            {
+              "code": "20",
+              "teacher": "RAMIREZ MOLINA GONZALO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1845-2015",
+                  "room": "E109"
+                },
+                {
+                  "day": "MA",
+                  "time": "1545-1715",
+                  "room": "E208"
+                },
+                {
+                  "day": "MI",
+                  "time": "1545-1715",
+                  "room": "E208"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "I",
+      "subjects": [
+        {
+          "code": "1301052",
+          "name": "ADMINISTRACION DE PROYECTOS",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "SEJAS CHOQUE JUAN CARLOS",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0815-0945",
+                  "room": "E520"
+                },
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "E504"
+                },
+                {
+                  "day": "JU",
+                  "time": "0815-0945",
+                  "room": "EPB-4"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "02",
+              "teacher": "FERRUFINO GARCIA ALEXANDER",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1115-1245",
+                  "room": "E110"
+                },
+                {
+                  "day": "MI",
+                  "time": "1115-1245",
+                  "room": "E302"
+                },
+                {
+                  "day": "VI",
+                  "time": "1115-1245",
+                  "room": "E110"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "PARDO FERNANDEZ JULIO FRANCO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0645-0815",
+                  "room": "E205"
+                },
+                {
+                  "day": "MA",
+                  "time": "1715-1845",
+                  "room": "E109"
+                },
+                {
+                  "day": "MI",
+                  "time": "0645-0815",
+                  "room": "E203"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301053",
+          "name": "LEGISLACION EMPRESARIAL",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "JIMENEZ PINTO EDWIN",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1715-1845",
+                  "room": "E543"
+                },
+                {
+                  "day": "MI",
+                  "time": "1715-1845",
+                  "room": "E206"
+                },
+                {
+                  "day": "VI",
+                  "time": "1715-1845",
+                  "room": "E109"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "02",
+              "teacher": "JIMENEZ PINTO EDWIN",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "2015-2145",
+                  "room": "E541"
+                },
+                {
+                  "day": "MI",
+                  "time": "2015-2145",
+                  "room": "E504"
+                },
+                {
+                  "day": "SA",
+                  "time": "1115-1245",
+                  "room": "E520"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "03",
+              "teacher": "AYALA MENDOZA AMILCAR",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "2015-2145",
+                  "room": "E203"
+                },
+                {
+                  "day": "JU",
+                  "time": "1845-2015",
+                  "room": "EPB-4"
+                },
+                {
+                  "day": "VI",
+                  "time": "1845-2015",
+                  "room": "EPB-4"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "04",
+              "teacher": "QUIROZ GOMEZ CARMEN RITA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1115-1245",
+                  "room": "E512"
+                },
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "E521"
+                },
+                {
+                  "day": "JU",
+                  "time": "1115-1245",
+                  "room": "E512"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301054",
+          "name": "TALLER II",
+          "groups": [
+            {
+              "code": "F1",
+              "teacher": "TORRES ARANDIA WILLIAM",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1415-1545",
+                  "room": "ADM1"
+                },
+                {
+                  "day": "MI",
+                  "time": "1415-1545",
+                  "room": "ADM1"
+                },
+                {
+                  "day": "JU",
+                  "time": "1415-1545",
+                  "room": "ADM1"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "F3",
+              "teacher": "RAMIREZ MOLINA GONZALO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1545-1715",
+                  "room": "ADM1"
+                },
+                {
+                  "day": "MA",
+                  "time": "0945-1115",
+                  "room": "ADM1"
+                },
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "ADM1"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "F4",
+              "teacher": "VALDIVIEZO MALDONADO LINO JUAN CARLOS",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0815-0945",
+                  "room": "ADM1"
+                },
+                {
+                  "day": "JU",
+                  "time": "0815-0945",
+                  "room": "ADM1"
+                },
+                {
+                  "day": "VI",
+                  "time": "0815-0945",
+                  "room": "ADM1"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "F5",
+              "teacher": "VARGAS OROSCO FREDDY",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0945-1115",
+                  "room": "ADM1"
+                },
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "ADM1"
+                },
+                {
+                  "day": "VI",
+                  "time": "0945-1115",
+                  "room": "ADM1"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "M1",
+              "teacher": "AYMA SOTO FELIX MARCELO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1115-1245",
+                  "room": "ADM1"
+                },
+                {
+                  "day": "MI",
+                  "time": "1115-1245",
+                  "room": "ADM1"
+                },
+                {
+                  "day": "JU",
+                  "time": "1115-1245",
+                  "room": "ADM1"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "M2",
+              "teacher": "VILLAZON ARANDIA RICARDO IVAN",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1715-1845",
+                  "room": "ADM1"
+                },
+                {
+                  "day": "MA",
+                  "time": "1715-1845",
+                  "room": "ADM1"
+                },
+                {
+                  "day": "MI",
+                  "time": "1715-1845",
+                  "room": "ADM1"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "M3",
+              "teacher": "POZO VALLEJOS MARIA ESTHER",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1245-1415",
+                  "room": "ADM1"
+                },
+                {
+                  "day": "MI",
+                  "time": "1245-1415",
+                  "room": "ADM1"
+                },
+                {
+                  "day": "VI",
+                  "time": "1245-1415",
+                  "room": "ADM1"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "M4",
+              "teacher": "MOSCOSO FORONDA DAVID",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1545-1715",
+                  "room": "ADM1"
+                },
+                {
+                  "day": "MI",
+                  "time": "1545-1715",
+                  "room": "ADM1"
+                },
+                {
+                  "day": "JU",
+                  "time": "1545-1715",
+                  "room": "ADM1"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "M5",
+              "teacher": "CARDENAS SARAVIA TITO IVAN",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1545-1715",
+                  "room": "ADM1"
+                },
+                {
+                  "day": "MA",
+                  "time": "1545-1715",
+                  "room": "ADM1"
+                },
+                {
+                  "day": "MI",
+                  "time": "1545-1715",
+                  "room": "ADM1"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "M7",
+              "teacher": "RAMIREZ MOLINA GONZALO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "2015-2145",
+                  "room": "ADM1"
+                },
+                {
+                  "day": "MA",
+                  "time": "2015-2145",
+                  "room": "ADM1"
+                },
+                {
+                  "day": "MI",
+                  "time": "2015-2145",
+                  "room": "ADM1"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "M8",
+              "teacher": "VILLAZON DEL CARPIO OSMAN ERICK",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "ADM1"
+                },
+                {
+                  "day": "JU",
+                  "time": "1245-1415",
+                  "room": "ADM1"
+                },
+                {
+                  "day": "VI",
+                  "time": "1245-1415",
+                  "room": "ADM1"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "R1",
+              "teacher": "VALDEZ ZEGARRA RAFAEL A.",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "E202"
+                },
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "E525"
+                },
+                {
+                  "day": "VI",
+                  "time": "1845-2015",
+                  "room": "E202"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "R4",
+              "teacher": "BURGOS MEDINA CARLOS ALBERTO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0945-1115",
+                  "room": "E401"
+                },
+                {
+                  "day": "MA",
+                  "time": "1115-1245",
+                  "room": "E206"
+                },
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "E547"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "R5",
+              "teacher": "ZEGARRA SALDANA PABLO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1715-1845",
+                  "room": "ADM1"
+                },
+                {
+                  "day": "MA",
+                  "time": "1715-1845",
+                  "room": "ADM1"
+                },
+                {
+                  "day": "MI",
+                  "time": "1415-1545",
+                  "room": "ADM1"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301055",
+          "name": "MERCADOTECNIA IV",
+          "groups": [
+            {
+              "code": "01",
+              "teacher": "NAVIA QUIROGA GUSTAVO",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1115-1245",
+                  "room": "E502"
+                },
+                {
+                  "day": "VI",
+                  "time": "1845-2015",
+                  "room": "E502"
+                },
+                {
+                  "day": "SA",
+                  "time": "0815-0945",
+                  "room": "E501"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "20",
+              "teacher": "NAVIA QUIROGA GUSTAVO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1845-2015",
+                  "room": "E502"
+                },
+                {
+                  "day": "MI",
+                  "time": "2015-2145",
+                  "room": "E502"
+                },
+                {
+                  "day": "VI",
+                  "time": "2015-2145",
+                  "room": "E504"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "21",
+              "teacher": "IRIARTE DE LA FUENTE MARCELA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1115-1245",
+                  "room": "E502"
+                },
+                {
+                  "day": "MA",
+                  "time": "1115-1245",
+                  "room": "E502"
+                },
+                {
+                  "day": "JU",
+                  "time": "1115-1245",
+                  "room": "E502"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301056",
+          "name": "FINANZAS VI",
+          "groups": [
+            {
+              "code": "20",
+              "teacher": "VALLEJO RUIZ JAVIER",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1845-2015",
+                  "room": "E548"
+                },
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "E106"
+                },
+                {
+                  "day": "SA",
+                  "time": "0645-0815",
+                  "room": "E520"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301057",
+          "name": "PERSONAL VI",
+          "groups": [
+            {
+              "code": "20",
+              "teacher": "BADANI LENZ RAFAEL FERNANDO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "2015-2145",
+                  "room": "E109"
+                },
+                {
+                  "day": "MI",
+                  "time": "2015-2145",
+                  "room": "E109"
+                },
+                {
+                  "day": "SA",
+                  "time": "0815-0945",
+                  "room": "E521"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1301058",
+          "name": "PRACTICA EMPRESARIAL",
+          "groups": [
+            {
+              "code": "20",
+              "teacher": "VILDOZO ZAMORANO WALTER FERNANDO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1245-1415",
+                  "room": "E105"
+                },
+                {
+                  "day": "VI",
+                  "time": "1115-1245",
+                  "room": "E102"
+                },
+                {
+                  "day": "SA",
+                  "time": "1115-1245",
+                  "room": "E109"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "21",
+              "teacher": "GUZMAN BROCKMANN FELIPE HANS WIGBERTO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "E502"
+                },
+                {
+                  "day": "JU",
+                  "time": "1715-1845",
+                  "room": "E503"
+                },
+                {
+                  "day": "SA",
+                  "time": "0815-0945",
+                  "room": "E205"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "22",
+              "teacher": "CHAVEZ MARCELA MABEL",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1715-1845",
+                  "room": "E301"
+                },
+                {
+                  "day": "VI",
+                  "time": "2015-2145",
+                  "room": "E202"
+                },
+                {
+                  "day": "SA",
+                  "time": "1115-1245",
+                  "room": "E203"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "23",
+              "teacher": "MALDONADO ROJAS RAMIRO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0645-0815",
+                  "room": "E109"
+                },
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "E107"
+                },
+                {
+                  "day": "JU",
+                  "time": "0645-0815",
+                  "room": "E301"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "24",
+              "teacher": "CHAVEZ MARCELA MABEL",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1715-1845",
+                  "room": "E201"
+                },
+                {
+                  "day": "JU",
+                  "time": "2015-2145",
+                  "room": "E206"
+                },
+                {
+                  "day": "VI",
+                  "time": "1845-2015",
+                  "room": "E207"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
