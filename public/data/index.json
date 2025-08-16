@@ -1,0 +1,34 @@
+[
+  {
+    "faculty": "FACULTAD DE CIENCIAS Y TECNOLOGIA",
+    "code": "fcyt",
+    "careers": [
+      {
+        "name": "LICENCIATURA EN INGENIERIA INFORMATICA",
+        "management": "2/2025",
+        "file": "informatica"
+      },
+      {
+        "name": "LICENCIATURA EN INGENIERIA DE SISTEMAS",
+        "management": "2/2025",
+        "file": "sistemas"
+      },
+      {
+        "name": "PROGRAMA DE INGENIERIA EN BIOTECNOLOGIA",
+        "management": "2/2025",
+        "file": "biotecnologia"
+      }
+    ]
+  },
+  {
+    "faculty": "FACULTAD DE CIENCIAS ECONOMICAS",
+    "code": "fce",
+    "careers": [
+      {
+        "name": "LICENCIATURA EN INGENIERIA COMERCIAL",
+        "management": "1/2025",
+        "file": "comercial"
+      }
+    ]
+  }
+]

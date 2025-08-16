@@ -1,0 +1,4167 @@
+{
+  "levels": [
+    {
+      "code": "A",
+      "subjects": [
+        {
+          "code": "2008019",
+          "name": "ALGEBRA I",
+          "groups": [
+            {
+              "code": "10",
+              "teacher": "RODRIGUEZ SEJAS JUAN ANTONIO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0945-1115",
+                  "room": "693B"
+                },
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "692E"
+                },
+                {
+                  "day": "VI",
+                  "time": "0945-1115",
+                  "room": "692F"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "14",
+              "teacher": "LEON ROMERO GUALBERTO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1545-1715",
+                  "room": "692E"
+                },
+                {
+                  "day": "JU",
+                  "time": "1115-1245",
+                  "room": "692E"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "LOVERA MAMANI MARIA BETHY",
+                  "schedule": [
+                    {
+                      "day": "SA",
+                      "time": "0815-0945",
+                      "room": "691E"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "5",
+              "teacher": "TABORGA ACHA FIDEL",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1415-1545",
+                  "room": "617"
+                },
+                {
+                  "day": "VI",
+                  "time": "0815-0945",
+                  "room": "617"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "TICLLA MAMANI IVAN",
+                  "schedule": [
+                    {
+                      "day": "SA",
+                      "time": "1115-1245",
+                      "room": "692B"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "6",
+              "teacher": "PATINO TITO RONALD EDGAR",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "2015-2145",
+                  "room": "607"
+                },
+                {
+                  "day": "MA",
+                  "time": "2015-2145",
+                  "room": "607"
+                },
+                {
+                  "day": "MI",
+                  "time": "2015-2145",
+                  "room": "623"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "8",
+              "teacher": "LEON ROMERO GUALBERTO",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1115-1245",
+                  "room": "692F"
+                },
+                {
+                  "day": "VI",
+                  "time": "0645-0815",
+                  "room": "692F"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "ARANIBAR ZAMBRANA AMMY SHALEM",
+                  "schedule": [
+                    {
+                      "day": "JU",
+                      "time": "0645-0815",
+                      "room": "625D"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "9",
+              "teacher": "POR DESGINAR DOCENTE",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1415-1545",
+                  "room": "693A"
+                },
+                {
+                  "day": "MA",
+                  "time": "1545-1715",
+                  "room": "624"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "JU",
+                      "time": "1245-1415",
+                      "room": "661"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2008054",
+          "name": "CALCULO I",
+          "groups": [
+            {
+              "code": "10",
+              "teacher": "POR DESGINAR DOCENTE",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "2015-2145",
+                  "room": "693B"
+                },
+                {
+                  "day": "VI",
+                  "time": "2015-2145",
+                  "room": "623"
+                },
+                {
+                  "day": "SA",
+                  "time": "0945-1115",
+                  "room": "617C"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "11",
+              "teacher": "ROJAS ZURITA RAMIRO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0645-0815",
+                  "room": "622"
+                },
+                {
+                  "day": "MA",
+                  "time": "0815-0945",
+                  "room": "692B"
+                },
+                {
+                  "day": "JU",
+                  "time": "0815-0945",
+                  "room": "692E"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "12",
+              "teacher": "DELGADILLO COSSIO DAVID ALFREDO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1845-2015",
+                  "room": "690B"
+                },
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "625D"
+                },
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "691D"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "17",
+              "teacher": "OMONTE OJALVO JOSE ROBERTO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1115-1245",
+                  "room": "642"
+                },
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "691C"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "BRAVO FLORES JAIME ANDREE",
+                  "schedule": [
+                    {
+                      "day": "VI",
+                      "time": "0945-1115",
+                      "room": "692H"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "7",
+              "teacher": "RODRIGUEZ SEJAS JUAN ANTONIO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1245-1415",
+                  "room": "612"
+                },
+                {
+                  "day": "MI",
+                  "time": "1245-1415",
+                  "room": "661"
+                },
+                {
+                  "day": "JU",
+                  "time": "0945-1115",
+                  "room": "692B"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "8",
+              "teacher": "OMONTE OJALVO JOSE GIL",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "612"
+                },
+                {
+                  "day": "MI",
+                  "time": "0645-0815",
+                  "room": "617C"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "FRIAS CRUZ ROSALIA",
+                  "schedule": [
+                    {
+                      "day": "SA",
+                      "time": "1115-1245",
+                      "room": "692E"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "9",
+              "teacher": "JUCHANI BAZUALDO DEMETRIO",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1245-1415",
+                  "room": "690D"
+                },
+                {
+                  "day": "JU",
+                  "time": "1115-1245",
+                  "room": "622"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "FRIAS CRUZ ROSALIA",
+                  "schedule": [
+                    {
+                      "day": "LU",
+                      "time": "1245-1415",
+                      "room": "651"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2006063",
+          "name": "FISICA GENERAL",
+          "groups": [
+            {
+              "code": "C",
+              "teacher": "FLORES FLORES FREDDY",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1415-1545",
+                  "room": "617"
+                },
+                {
+                  "day": "VI",
+                  "time": "1715-1845",
+                  "room": "693B"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "C1",
+              "teacher": "SHITIKOV GAGARINA GALINA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1115-1245",
+                  "room": "620"
+                }
+              ],
+              "assistants": [],
+              "is_lab": true,
+              "total_minutes": 90
+            },
+            {
+              "code": "C2",
+              "teacher": "TERRAZAS VARGAS JUAN CARLOS",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "time": "0815-0945",
+                  "room": "620"
+                }
+              ],
+              "assistants": [],
+              "is_lab": true,
+              "total_minutes": 90
+            },
+            {
+              "code": "C3",
+              "teacher": "MOREIRA CALIZAYA RENE",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1115-1245",
+                  "room": "621"
+                }
+              ],
+              "assistants": [],
+              "is_lab": true,
+              "total_minutes": 90
+            },
+            {
+              "code": "C4",
+              "teacher": "CASTRO LAZARTE CECILIA BEATRIZ",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1415-1545",
+                  "room": "620"
+                }
+              ],
+              "assistants": [],
+              "is_lab": true,
+              "total_minutes": 90
+            },
+            {
+              "code": "C5",
+              "teacher": "CASTRO LAZARTE CECILIA BEATRIZ",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1715-1845",
+                  "room": "621"
+                }
+              ],
+              "assistants": [],
+              "is_lab": true,
+              "total_minutes": 90
+            },
+            {
+              "code": "C6",
+              "teacher": "POR DESGINAR DOCENTE",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1715-1845",
+                  "room": "620"
+                }
+              ],
+              "assistants": [],
+              "is_lab": true,
+              "total_minutes": 90
+            },
+            {
+              "code": "C7",
+              "teacher": "FLORES FLORES FREDDY",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1415-1545",
+                  "room": "620"
+                }
+              ],
+              "assistants": [],
+              "is_lab": true,
+              "total_minutes": 90
+            },
+            {
+              "code": "D",
+              "teacher": "FUENTES MIRANDA IVAN",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1115-1245",
+                  "room": "651"
+                },
+                {
+                  "day": "VI",
+                  "time": "1245-1415",
+                  "room": "612"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "D1",
+              "teacher": "UGARTE CEJAS FELIX",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1545-1715",
+                  "room": "620"
+                }
+              ],
+              "assistants": [],
+              "is_lab": true,
+              "total_minutes": 90
+            },
+            {
+              "code": "D2",
+              "teacher": "POR DESGINAR DOCENTE",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "time": "1415-1545",
+                  "room": "621"
+                }
+              ],
+              "assistants": [],
+              "is_lab": true,
+              "total_minutes": 90
+            },
+            {
+              "code": "D3",
+              "teacher": "POR DESGINAR DOCENTE",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "time": "1545-1715",
+                  "room": "620"
+                }
+              ],
+              "assistants": [],
+              "is_lab": true,
+              "total_minutes": 90
+            },
+            {
+              "code": "D4",
+              "teacher": "FLORES FLORES FREDDY",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "time": "1545-1715",
+                  "room": "618"
+                }
+              ],
+              "assistants": [],
+              "is_lab": true,
+              "total_minutes": 90
+            },
+            {
+              "code": "D5",
+              "teacher": "GUZMAN SAAVEDRA ROCIO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1415-1545",
+                  "room": "618"
+                }
+              ],
+              "assistants": [],
+              "is_lab": true,
+              "total_minutes": 90
+            },
+            {
+              "code": "D6",
+              "teacher": "POR DESGINAR DOCENTE",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "time": "0815-0945",
+                  "room": "621"
+                }
+              ],
+              "assistants": [],
+              "is_lab": true,
+              "total_minutes": 90
+            },
+            {
+              "code": "D7",
+              "teacher": "SHITIKOV GAGARINA GALINA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0815-0945",
+                  "room": "620"
+                }
+              ],
+              "assistants": [],
+              "is_lab": true,
+              "total_minutes": 90
+            },
+            {
+              "code": "E",
+              "teacher": "MOREIRA CALIZAYA RENE",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1115-1245",
+                  "room": "622"
+                },
+                {
+                  "day": "VI",
+                  "time": "0815-0945",
+                  "room": "607"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "E1",
+              "teacher": "SHITIKOV GAGARINA GALINA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0945-1115",
+                  "room": "620"
+                }
+              ],
+              "assistants": [],
+              "is_lab": true,
+              "total_minutes": 90
+            },
+            {
+              "code": "E2",
+              "teacher": "DAVALOS BROZOVIC JORGE",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "620"
+                }
+              ],
+              "assistants": [],
+              "is_lab": true,
+              "total_minutes": 90
+            },
+            {
+              "code": "E3",
+              "teacher": "ORDONEZ SALVATIERRA MIGUEL ANGEL",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0815-0945",
+                  "room": "684L6"
+                }
+              ],
+              "assistants": [],
+              "is_lab": true,
+              "total_minutes": 90
+            },
+            {
+              "code": "E4",
+              "teacher": "VASQUEZ CARRILLO MICHAEL HUASCAR",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1545-1715",
+                  "room": "621"
+                }
+              ],
+              "assistants": [],
+              "is_lab": true,
+              "total_minutes": 90
+            },
+            {
+              "code": "E5",
+              "teacher": "GUZMAN SAAVEDRA ROCIO",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "time": "0945-1115",
+                  "room": "620"
+                }
+              ],
+              "assistants": [],
+              "is_lab": true,
+              "total_minutes": 90
+            },
+            {
+              "code": "E6",
+              "teacher": "DAVALOS BROZOVIC JORGE",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "time": "1545-1715",
+                  "room": "620"
+                }
+              ],
+              "assistants": [],
+              "is_lab": true,
+              "total_minutes": 90
+            },
+            {
+              "code": "E7",
+              "teacher": "DAVALOS BROZOVIC JORGE",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "time": "1715-1845",
+                  "room": "620"
+                }
+              ],
+              "assistants": [],
+              "is_lab": true,
+              "total_minutes": 90
+            },
+            {
+              "code": "E8",
+              "teacher": "VASQUEZ CARRILLO MICHAEL HUASCAR",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "time": "0945-1115",
+                  "room": "618"
+                }
+              ],
+              "assistants": [],
+              "is_lab": true,
+              "total_minutes": 90
+            },
+            {
+              "code": "F",
+              "teacher": "ORDONEZ SALVATIERRA MIGUEL ANGEL",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0945-1115",
+                  "room": "691E"
+                },
+                {
+                  "day": "VI",
+                  "time": "0945-1115",
+                  "room": "622"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "F1",
+              "teacher": "TERRAZAS VARGAS JUAN CARLOS",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "time": "0945-1115",
+                  "room": "621"
+                }
+              ],
+              "assistants": [],
+              "is_lab": true,
+              "total_minutes": 90
+            },
+            {
+              "code": "F2",
+              "teacher": "TERRAZAS VARGAS JUAN CARLOS",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "621"
+                }
+              ],
+              "assistants": [],
+              "is_lab": true,
+              "total_minutes": 90
+            },
+            {
+              "code": "F3",
+              "teacher": "GUZMAN SAAVEDRA ROCIO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1415-1545",
+                  "room": "618"
+                }
+              ],
+              "assistants": [],
+              "is_lab": true,
+              "total_minutes": 90
+            },
+            {
+              "code": "F4",
+              "teacher": "GUZMAN SAAVEDRA ROCIO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0815-0945",
+                  "room": "684L6"
+                }
+              ],
+              "assistants": [],
+              "is_lab": true,
+              "total_minutes": 90
+            }
+          ]
+        },
+        {
+          "code": "1803001",
+          "name": "INGLES I",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "CESPEDES GUIZADA MARIA BENITA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0815-0945",
+                  "room": "693B"
+                },
+                {
+                  "day": "VI",
+                  "time": "0815-0945",
+                  "room": "691D"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "2",
+              "teacher": "CESPEDES GUIZADA MARIA BENITA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1115-1245",
+                  "room": "692F"
+                },
+                {
+                  "day": "VI",
+                  "time": "0945-1115",
+                  "room": "693A"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "3",
+              "teacher": "PEETERS ILONAA MAGDA LENA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0645-0815",
+                  "room": "691B"
+                },
+                {
+                  "day": "MI",
+                  "time": "0645-0815",
+                  "room": "692H"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "4",
+              "teacher": "GRILO SALVATIERRA MARIA ESTELA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1545-1715",
+                  "room": "692G"
+                },
+                {
+                  "day": "VI",
+                  "time": "1415-1545",
+                  "room": "692E"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "5",
+              "teacher": "CESPEDES GUIZADA MARIA BENITA",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "time": "0945-1115",
+                  "room": "692F"
+                },
+                {
+                  "day": "VI",
+                  "time": "1115-1245",
+                  "room": "691B"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        },
+        {
+          "code": "2010010",
+          "name": "INTRODUCCION A LA PROGRAMACION",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "SALAZAR SERRUDO CARLA",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "time": "1115-1245",
+                  "room": "691A"
+                },
+                {
+                  "day": "VI",
+                  "time": "1115-1245",
+                  "room": "691E"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "ANTEZANA SERRANO DILAN ALEJANDRO",
+                  "schedule": [
+                    {
+                      "day": "VI",
+                      "time": "1715-1845",
+                      "room": "623"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "10",
+              "teacher": "COSTAS JAUREGUI VLADIMIR ABEL",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0945-1115",
+                  "room": "693D"
+                },
+                {
+                  "day": "JU",
+                  "time": "0945-1115",
+                  "room": "691A"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "ORTIZ FLORES ANDY DANIEL",
+                  "schedule": [
+                    {
+                      "day": "JU",
+                      "time": "1415-1545",
+                      "room": "691B"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "2",
+              "teacher": "BLANCO COCA LETICIA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1715-1845",
+                  "room": "617"
+                },
+                {
+                  "day": "JU",
+                  "time": "1545-1715",
+                  "room": "624"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "ZEBALLOS ALDUNATE LEONEL",
+                  "schedule": [
+                    {
+                      "day": "MI",
+                      "time": "1715-1845",
+                      "room": "691B"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "3",
+              "teacher": "USTARIZ VARGAS HERNAN",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1245-1415",
+                  "room": "607"
+                },
+                {
+                  "day": "MI",
+                  "time": "1245-1415",
+                  "room": "612"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "RAMOS CRESPO MAURICIO",
+                  "schedule": [
+                    {
+                      "day": "VI",
+                      "time": "1245-1415",
+                      "room": "624"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "4",
+              "teacher": "VILLARROEL TAPIA HENRY FRANK",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1545-1715",
+                  "room": "623"
+                },
+                {
+                  "day": "MI",
+                  "time": "1545-1715",
+                  "room": "693C"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "SALAZAR CHOQUE JORGE",
+                  "schedule": [
+                    {
+                      "day": "VI",
+                      "time": "1715-1845",
+                      "room": "691E"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "5",
+              "teacher": "MONTANO QUIROGA VICTOR HUGO",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "690B"
+                },
+                {
+                  "day": "JU",
+                  "time": "0945-1115",
+                  "room": "623"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "SANABRIA UGARTE ANAHI",
+                  "schedule": [
+                    {
+                      "day": "SA",
+                      "time": "0945-1115",
+                      "room": "691C"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "6",
+              "teacher": "SALAZAR SERRUDO CARLA",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1715-1845",
+                  "room": "692D"
+                },
+                {
+                  "day": "JU",
+                  "time": "1715-1845",
+                  "room": "691E"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "ANTEZANA SERRANO DILAN ALEJANDRO",
+                  "schedule": [
+                    {
+                      "day": "SA",
+                      "time": "0815-0945",
+                      "room": "617"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "7",
+              "teacher": "POR DESGINAR DOCENTE",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1845-2015",
+                  "room": "612"
+                },
+                {
+                  "day": "VI",
+                  "time": "1845-2015",
+                  "room": "691E"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "MA",
+                      "time": "1245-1415",
+                      "room": "690C"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2010140",
+          "name": "METODOLOGIA  INVESTIGACION Y TEC COMUNICACION",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ROMERO RODRIGUEZ PATRICIA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0815-0945",
+                  "room": "691C"
+                },
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "691B"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "2",
+              "teacher": "FLORES VILLARROEL CORINA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0815-0945",
+                  "room": "691D"
+                },
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "617B"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "3",
+              "teacher": "LAIME ZAPATA VALENTIN",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "time": "1845-2015",
+                  "room": "692G"
+                },
+                {
+                  "day": "VI",
+                  "time": "1845-2015",
+                  "room": "692H"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "4",
+              "teacher": "VILLARROEL NOVILLO JIMMY",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0815-0945",
+                  "room": "642"
+                },
+                {
+                  "day": "MI",
+                  "time": "1415-1545",
+                  "room": "693C"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "B",
+      "subjects": [
+        {
+          "code": "2008022",
+          "name": "ALGEBRA II",
+          "groups": [
+            {
+              "code": "5",
+              "teacher": "TAYLOR TERRAZAS DARLONG HOWARD",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "time": "0815-0945",
+                  "room": "622"
+                },
+                {
+                  "day": "VI",
+                  "time": "0815-0945",
+                  "room": "660"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "CLAURE VARGAS ANDRES ALEJANDRO",
+                  "schedule": [
+                    {
+                      "day": "VI",
+                      "time": "0945-1115",
+                      "room": "651"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "6",
+              "teacher": "MEDINA GAMBOA JULIO",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "time": "1115-1245",
+                  "room": "691B"
+                },
+                {
+                  "day": "VI",
+                  "time": "1245-1415",
+                  "room": "691A"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "CRUZ ACHAYA MARIA CLAUDIA",
+                  "schedule": [
+                    {
+                      "day": "SA",
+                      "time": "0815-0945",
+                      "room": "692A"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "8",
+              "teacher": "OMONTE OJALVO JOSE ROBERTO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1115-1245",
+                  "room": "624"
+                },
+                {
+                  "day": "JU",
+                  "time": "1415-1545",
+                  "room": "692B"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "CRUZ ACHAYA MARIA CLAUDIA",
+                  "schedule": [
+                    {
+                      "day": "MA",
+                      "time": "1415-1545",
+                      "room": "692D"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2010013",
+          "name": "ARQUITECTURA DE COMPUTADORAS I",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ACHA PEREZ SAMUEL",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "time": "0645-0815",
+                  "room": "691C"
+                },
+                {
+                  "day": "SA",
+                  "time": "0645-0815",
+                  "room": "691B"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "2",
+              "teacher": "BLANCO COCA LETICIA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1415-1545",
+                  "room": "691B"
+                },
+                {
+                  "day": "JU",
+                  "time": "1415-1545",
+                  "room": "624"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "3",
+              "teacher": "AGREDA CORRALES LUIS ROBERTO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1115-1245",
+                  "room": "692A"
+                },
+                {
+                  "day": "MI",
+                  "time": "1245-1415",
+                  "room": "617"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        },
+        {
+          "code": "2008056",
+          "name": "CALCULO II",
+          "groups": [
+            {
+              "code": "6",
+              "teacher": "TERRAZAS LOBO JUAN",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "691D"
+                },
+                {
+                  "day": "JU",
+                  "time": "1115-1245",
+                  "room": "693D"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "SOSA MARZE DAVID SAUL",
+                  "schedule": [
+                    {
+                      "day": "MI",
+                      "time": "1415-1545",
+                      "room": "625C"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "6A",
+              "teacher": "BUSTILLOS VARGAS ALEX ISRRAEL",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1245-1415",
+                  "room": "693D"
+                },
+                {
+                  "day": "MA",
+                  "time": "0945-1115",
+                  "room": "692D"
+                },
+                {
+                  "day": "JU",
+                  "time": "0815-0945",
+                  "room": "691B"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "7",
+              "teacher": "CATARI RIOS RAUL",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0815-0945",
+                  "room": "622"
+                },
+                {
+                  "day": "MA",
+                  "time": "0945-1115",
+                  "room": "607"
+                },
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "693B"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "7A",
+              "teacher": "VALLEJO CAMACHO MARCO ANTONIO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0945-1115",
+                  "room": "693D"
+                },
+                {
+                  "day": "MI",
+                  "time": "1115-1245",
+                  "room": "692C"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "MAMANI QUELCA SHIRLEY",
+                  "schedule": [
+                    {
+                      "day": "VI",
+                      "time": "1115-1245",
+                      "room": "692H"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2010003",
+          "name": "ELEM. DE PROGRAMACION Y ESTRUC. DE DATOS",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "TORRICO BASCOPE ROSEMARY",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0815-0945",
+                  "room": "617C"
+                },
+                {
+                  "day": "VI",
+                  "time": "0815-0945",
+                  "room": "690C"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "CUENCA VARGAS FERNANDO",
+                  "schedule": [
+                    {
+                      "day": "MI",
+                      "time": "1115-1245",
+                      "room": "691F"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "2",
+              "teacher": "BLANCO COCA LETICIA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1245-1415",
+                  "room": "623"
+                },
+                {
+                  "day": "JU",
+                  "time": "1245-1415",
+                  "room": "624"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "ORTIZ FLORES ANDY DANIEL",
+                  "schedule": [
+                    {
+                      "day": "MI",
+                      "time": "1545-1715",
+                      "room": "623"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "3",
+              "teacher": "BLANCO COCA LETICIA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "622"
+                },
+                {
+                  "day": "MI",
+                  "time": "0645-0815",
+                  "room": "691C"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "SANABRIA UGARTE ANAHI",
+                  "schedule": [
+                    {
+                      "day": "JU",
+                      "time": "1245-1415",
+                      "room": "690C"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "5",
+              "teacher": "POR DESGINAR DOCENTE",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1245-1415",
+                  "room": "690E"
+                },
+                {
+                  "day": "JU",
+                  "time": "1245-1415",
+                  "room": "693B"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "ZEBALLOS ALDUNATE LEONEL",
+                  "schedule": [
+                    {
+                      "day": "VI",
+                      "time": "1415-1545",
+                      "room": "617"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2008057",
+          "name": "MATEMATICA DISCRETA",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "FERNANDEZ RAMOS DAVID",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1715-1845",
+                  "room": "623"
+                },
+                {
+                  "day": "JU",
+                  "time": "1715-1845",
+                  "room": "622"
+                },
+                {
+                  "day": "VI",
+                  "time": "1715-1845",
+                  "room": "691A"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "2",
+              "teacher": "DELGADILLO COSSIO DAVID ALFREDO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "2015-2145",
+                  "room": "623"
+                },
+                {
+                  "day": "MA",
+                  "time": "2015-2145",
+                  "room": "612"
+                },
+                {
+                  "day": "MI",
+                  "time": "2015-2145",
+                  "room": "624"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "C",
+      "subjects": [
+        {
+          "code": "2010015",
+          "name": "BASE DE DATOS I",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "POR DESGINAR DOCENTE",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1245-1415",
+                  "room": "691B"
+                },
+                {
+                  "day": "MI",
+                  "time": "1245-1415",
+                  "room": "691B"
+                },
+                {
+                  "day": "JU",
+                  "time": "1245-1415",
+                  "room": "693D"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "2",
+              "teacher": "CALANCHA NAVIA BORIS",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0645-0815",
+                  "room": "692H"
+                },
+                {
+                  "day": "MA",
+                  "time": "0645-0815",
+                  "room": "693B"
+                },
+                {
+                  "day": "VI",
+                  "time": "0645-0815",
+                  "room": "692D"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2008060",
+          "name": "CALCULO NUMERICO",
+          "groups": [
+            {
+              "code": "2",
+              "teacher": "JUCHANI BAZUALDO DEMETRIO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1415-1545",
+                  "room": "622"
+                },
+                {
+                  "day": "MA",
+                  "time": "1115-1245",
+                  "room": "693A"
+                },
+                {
+                  "day": "JU",
+                  "time": "0645-0815",
+                  "room": "693D"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "3",
+              "teacher": "ZABALAGA MONTANO OSCAR A.",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0815-0945",
+                  "room": "617"
+                },
+                {
+                  "day": "MA",
+                  "time": "1545-1715",
+                  "room": "692H"
+                },
+                {
+                  "day": "MI",
+                  "time": "1545-1715",
+                  "room": "690D"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2010141",
+          "name": "CIRCUITOS ELECTRONICOS",
+          "groups": [
+            {
+              "code": "2",
+              "teacher": "ZAMBRANA BURGOS JHOMIL EFRAIN",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "2015-2145",
+                  "room": "691A"
+                },
+                {
+                  "day": "SA",
+                  "time": "1115-1245",
+                  "room": "692A"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        },
+        {
+          "code": "2008058",
+          "name": "ECUACIONES DIFERENCIALES",
+          "groups": [
+            {
+              "code": "3A",
+              "teacher": "CATARI RIOS RAUL",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1245-1415",
+                  "room": "693C"
+                },
+                {
+                  "day": "VI",
+                  "time": "0945-1115",
+                  "room": "623"
+                },
+                {
+                  "day": "SA",
+                  "time": "0945-1115",
+                  "room": "617"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "4",
+              "teacher": "TAYLOR TERRAZAS DARLONG HOWARD",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0945-1115",
+                  "room": "651"
+                },
+                {
+                  "day": "MA",
+                  "time": "0815-0945",
+                  "room": "692C"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "COLQUE SANGUEZA ARACELI HARUKA",
+                  "schedule": [
+                    {
+                      "day": "VI",
+                      "time": "1845-2015",
+                      "room": "691A"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2008059",
+          "name": "ESTADISTICA I",
+          "groups": [
+            {
+              "code": "3",
+              "teacher": "REVOLLO TERAN LUZ MAYA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0945-1115",
+                  "room": "692G"
+                },
+                {
+                  "day": "JU",
+                  "time": "1415-1545",
+                  "room": "690C"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "PACHECO YPURANI CLAUDIA",
+                  "schedule": [
+                    {
+                      "day": "MA",
+                      "time": "1115-1245",
+                      "room": "617B"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "4",
+              "teacher": "SORUCO MAITA JOSE ANTONIO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1545-1715",
+                  "room": "AULVIR"
+                },
+                {
+                  "day": "VI",
+                  "time": "0945-1115",
+                  "room": "AULVIR"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "PACHECO YPURANI CLAUDIA",
+                  "schedule": [
+                    {
+                      "day": "LU",
+                      "time": "1115-1245",
+                      "room": "642"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "5",
+              "teacher": "OMONTE OJALVO JOSE GIL",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "2015-2145",
+                  "room": "624"
+                },
+                {
+                  "day": "MA",
+                  "time": "1715-1845",
+                  "room": "692C"
+                },
+                {
+                  "day": "JU",
+                  "time": "0815-0945",
+                  "room": "690B"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2010012",
+          "name": "METODOS TECNICAS Y TALLER DE PROGRAMACION",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "FLORES VILLARROEL CORINA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1115-1245",
+                  "room": "652"
+                },
+                {
+                  "day": "MA",
+                  "time": "0815-0945",
+                  "room": "625D"
+                },
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "652"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "2",
+              "teacher": "MANZUR SORIA CARLOS B.",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0645-0815",
+                  "room": "625C"
+                },
+                {
+                  "day": "VI",
+                  "time": "0645-0815",
+                  "room": "651"
+                },
+                {
+                  "day": "SA",
+                  "time": "0645-0815",
+                  "room": "607"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "3",
+              "teacher": "POR DESGINAR DOCENTE",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0645-0815",
+                  "room": "INFLAB"
+                },
+                {
+                  "day": "JU",
+                  "time": "0645-0815",
+                  "room": "INFLAB"
+                },
+                {
+                  "day": "VI",
+                  "time": "0645-0815",
+                  "room": "INFLAB"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "5",
+              "teacher": "MONTOYA BURGOS YONY RICHARD",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1245-1415",
+                  "room": "690E"
+                },
+                {
+                  "day": "MI",
+                  "time": "1245-1415",
+                  "room": "INFLAB"
+                },
+                {
+                  "day": "JU",
+                  "time": "1845-2015",
+                  "room": "INFLAB"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "6",
+              "teacher": "VILLARROEL NOVILLO JIMMY",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0945-1115",
+                  "room": "INFLAB"
+                },
+                {
+                  "day": "MA",
+                  "time": "0945-1115",
+                  "room": "INFLAB"
+                },
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "INFLAB"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "D",
+      "subjects": [
+        {
+          "code": "2010016",
+          "name": "BASE DE DATOS II",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "APARICIO YUJA TATIANA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0645-0815",
+                  "room": "617B"
+                },
+                {
+                  "day": "MA",
+                  "time": "0645-0815",
+                  "room": "691F"
+                },
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "617B"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "2",
+              "teacher": "APARICIO YUJA TATIANA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1245-1415",
+                  "room": "692B"
+                },
+                {
+                  "day": "MA",
+                  "time": "0815-0945",
+                  "room": "INFLAB"
+                },
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "612"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2016046",
+          "name": "CONTABILIDAD BASICA",
+          "groups": [
+            {
+              "code": "2",
+              "teacher": "MEJIA URQUIETA VICTOR RAMIRO",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "time": "0945-1115",
+                  "room": "625C"
+                },
+                {
+                  "day": "VI",
+                  "time": "0945-1115",
+                  "room": "693D"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "3",
+              "teacher": "ARANIBAR LA FUENTE LIGIA JACQUELINE",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1115-1245",
+                  "room": "692H"
+                },
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "692A"
+                },
+                {
+                  "day": "VI",
+                  "time": "1115-1245",
+                  "room": "692C"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2008061",
+          "name": "ESTADISTICA II",
+          "groups": [
+            {
+              "code": "2",
+              "teacher": "SORUCO MAITA JOSE ANTONIO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0945-1115",
+                  "room": "AULVIR"
+                },
+                {
+                  "day": "JU",
+                  "time": "1545-1715",
+                  "room": "AULVIR"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "VELEZ BILBAO DAVID ENRIQUE",
+                  "schedule": [
+                    {
+                      "day": "JU",
+                      "time": "1115-1245",
+                      "room": "692A"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "3",
+              "teacher": "OMONTE OJALVO JOSE ROBERTO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0815-0945",
+                  "room": "692B"
+                },
+                {
+                  "day": "VI",
+                  "time": "1415-1545",
+                  "room": "691E"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "MAMANI QUELCA SHIRLEY",
+                  "schedule": [
+                    {
+                      "day": "JU",
+                      "time": "1845-2015",
+                      "room": "660"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2016048",
+          "name": "INVESTIGACION OPERATIVA I",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "PERICON BALDERRAMA ALFREDO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1115-1245",
+                  "room": "682L8IN"
+                },
+                {
+                  "day": "MA",
+                  "time": "0645-0815",
+                  "room": "682L8IN"
+                },
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "682L7IN"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "3",
+              "teacher": "QUIROZ CHAVEZ ABDON",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1115-1245",
+                  "room": "AULVIR"
+                },
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "AULVIR"
+                },
+                {
+                  "day": "JU",
+                  "time": "1245-1415",
+                  "room": "AULVIR"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "4",
+              "teacher": "REVOLLO TERAN LUZ MAYA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0815-0945",
+                  "room": "682L8IN"
+                },
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "617C"
+                },
+                {
+                  "day": "JU",
+                  "time": "0945-1115",
+                  "room": "625D"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2010018",
+          "name": "SISTEMAS DE INFORMACION I",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "SALAZAR SERRUDO CARLA",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1545-1715",
+                  "room": "692B"
+                },
+                {
+                  "day": "JU",
+                  "time": "0945-1115",
+                  "room": "607"
+                },
+                {
+                  "day": "VI",
+                  "time": "0945-1115",
+                  "room": "691E"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "2",
+              "teacher": "SALAZAR SERRUDO CARLA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1715-1845",
+                  "room": "691B"
+                },
+                {
+                  "day": "MA",
+                  "time": "1715-1845",
+                  "room": "693D"
+                },
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "617"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2010017",
+          "name": "TALLER DE SISTEMAS OPERATIVOS",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ORELLANA ARAOZ JORGE WALTER",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "INFLAB"
+                },
+                {
+                  "day": "JU",
+                  "time": "0815-0945",
+                  "room": "691F"
+                },
+                {
+                  "day": "VI",
+                  "time": "1415-1545",
+                  "room": "691C"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "2",
+              "teacher": "ORELLANA ARAOZ JORGE WALTER",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0815-0945",
+                  "room": "623"
+                },
+                {
+                  "day": "MI",
+                  "time": "1415-1545",
+                  "room": "691A"
+                },
+                {
+                  "day": "VI",
+                  "time": "0815-0945",
+                  "room": "624"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "3",
+              "teacher": "CUSSI NICOLAS GROVER HUMBERTO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1845-2015",
+                  "room": "INFLAB"
+                },
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "691E"
+                },
+                {
+                  "day": "JU",
+                  "time": "2015-2145",
+                  "room": "691A"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "E",
+      "subjects": [
+        {
+          "code": "2010035",
+          "name": "APLICACION DE SISTEMAS OPERATIVOS",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "CUSSI NICOLAS GROVER HUMBERTO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "2015-2145",
+                  "room": "691E"
+                },
+                {
+                  "day": "VI",
+                  "time": "1845-2015",
+                  "room": "693D"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "2",
+              "teacher": "CUSSI NICOLAS GROVER HUMBERTO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1245-1415",
+                  "room": "693B"
+                },
+                {
+                  "day": "JU",
+                  "time": "1845-2015",
+                  "room": "690B"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "3",
+              "teacher": "AYOROA CARDOZO JOSE RICHARD",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0945-1115",
+                  "room": "693A"
+                },
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "INFLAB"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        },
+        {
+          "code": "1803002",
+          "name": "INGLES II",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "PEETERS ILONAA MAGDA LENA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0945-1115",
+                  "room": "691B"
+                },
+                {
+                  "day": "JU",
+                  "time": "0645-0815",
+                  "room": "661"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "2",
+              "teacher": "PEETERS ILONAA MAGDA LENA",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "time": "0945-1115",
+                  "room": "691B"
+                },
+                {
+                  "day": "VI",
+                  "time": "0945-1115",
+                  "room": "691C"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "3",
+              "teacher": "PEETERS ILONAA MAGDA LENA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0645-0815",
+                  "room": "692G"
+                },
+                {
+                  "day": "VI",
+                  "time": "0645-0815",
+                  "room": "692H"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        },
+        {
+          "code": "2016051",
+          "name": "INVESTIGACION OPERATIVA II",
+          "groups": [
+            {
+              "code": "2",
+              "teacher": "MANCHEGO CASTELLON ROBERTO JUAN",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1715-1845",
+                  "room": "692C"
+                },
+                {
+                  "day": "JU",
+                  "time": "1715-1845",
+                  "room": "607"
+                },
+                {
+                  "day": "SA",
+                  "time": "0815-0945",
+                  "room": "623"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2016057",
+          "name": "MERCADOTECNIA",
+          "groups": [
+            {
+              "code": "2",
+              "teacher": "GUTIERREZ ANDRADE OSVALDO WALTER",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1545-1715",
+                  "room": "661"
+                },
+                {
+                  "day": "VI",
+                  "time": "1545-1715",
+                  "room": "693D"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "3",
+              "teacher": "SARMIENTO FRANCO ARIEL ANTONIO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "623"
+                },
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "690D"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        },
+        {
+          "code": "2010022",
+          "name": "SISTEMAS DE INFORMACION II",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "FLORES SOLIZ JUAN MARCELO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0645-0815",
+                  "room": "690E"
+                },
+                {
+                  "day": "MI",
+                  "time": "0645-0815",
+                  "room": "690D"
+                },
+                {
+                  "day": "VI",
+                  "time": "0645-0815",
+                  "room": "AUDMEMI"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "1A",
+              "teacher": "SALAZAR SERRUDO CARLA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1545-1715",
+                  "room": "693A"
+                },
+                {
+                  "day": "MA",
+                  "time": "1545-1715",
+                  "room": "692D"
+                },
+                {
+                  "day": "JU",
+                  "time": "1545-1715",
+                  "room": "692F"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "2",
+              "teacher": "JALDIN ROSALES K. ROLANDO",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "690E"
+                },
+                {
+                  "day": "JU",
+                  "time": "0945-1115",
+                  "room": "690E"
+                },
+                {
+                  "day": "VI",
+                  "time": "0945-1115",
+                  "room": "690E"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2010142",
+          "name": "SISTEMAS I",
+          "groups": [
+            {
+              "code": "2",
+              "teacher": "FIORILO LOZADA AMERICO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1845-2015",
+                  "room": "693A"
+                },
+                {
+                  "day": "VI",
+                  "time": "1845-2015",
+                  "room": "692C"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        },
+        {
+          "code": "2010053",
+          "name": "TALLER DE BASE DE DATOS",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "CALANCHA NAVIA BORIS",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1715-1845",
+                  "room": "690D"
+                },
+                {
+                  "day": "JU",
+                  "time": "1715-1845",
+                  "room": "693C"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "2",
+              "teacher": "CALANCHA NAVIA BORIS",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "692C"
+                },
+                {
+                  "day": "JU",
+                  "time": "1845-2015",
+                  "room": "693B"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "3",
+              "teacher": "FLORES SOLIZ JUAN MARCELO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0645-0815",
+                  "room": "690B"
+                },
+                {
+                  "day": "JU",
+                  "time": "0645-0815",
+                  "room": "690B"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "4",
+              "teacher": "CALANCHA NAVIA BORIS",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1245-1415",
+                  "room": "INFLAB"
+                },
+                {
+                  "day": "JU",
+                  "time": "1245-1415",
+                  "room": "INFLAB"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "F",
+      "subjects": [
+        {
+          "code": "2010020",
+          "name": "INGENIERIA DE SOFTWARE",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "CAMACHO DEL CASTILLO INDIRA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0645-0815",
+                  "room": "651"
+                },
+                {
+                  "day": "MI",
+                  "time": "0645-0815",
+                  "room": "652"
+                },
+                {
+                  "day": "JU",
+                  "time": "0645-0815",
+                  "room": "692D"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "2",
+              "teacher": "TORRICO BASCOPE ROSEMARY",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1115-1245",
+                  "room": "690B"
+                },
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "INFLAB"
+                },
+                {
+                  "day": "VI",
+                  "time": "0945-1115",
+                  "room": "691D"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2010027",
+          "name": "INTELIGENCIA ARTIFICIAL",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "GARCIA PEREZ CARMEN ROSA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1115-1245",
+                  "room": "692D"
+                },
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "692A"
+                },
+                {
+                  "day": "JU",
+                  "time": "1115-1245",
+                  "room": "692D"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "2",
+              "teacher": "RODRIGUEZ BILBAO ERIKA PATRICIA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1245-1415",
+                  "room": "691C"
+                },
+                {
+                  "day": "MA",
+                  "time": "1245-1415",
+                  "room": "690B"
+                },
+                {
+                  "day": "MI",
+                  "time": "1245-1415",
+                  "room": "692C"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2010047",
+          "name": "REDES DE COMPUTADORAS",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ORELLANA ARAOZ JORGE WALTER",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1415-1545",
+                  "room": "692B"
+                },
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "693A"
+                },
+                {
+                  "day": "VI",
+                  "time": "0945-1115",
+                  "room": "692C"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "2",
+              "teacher": "ORELLANA ARAOZ JORGE WALTER",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0945-1115",
+                  "room": "691B"
+                },
+                {
+                  "day": "MA",
+                  "time": "0945-1115",
+                  "room": "693A"
+                },
+                {
+                  "day": "JU",
+                  "time": "0945-1115",
+                  "room": "691C"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2010019",
+          "name": "SIMULACION DE SISTEMAS",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "VILLARROEL TAPIA HENRY FRANK",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1415-1545",
+                  "room": "692G"
+                },
+                {
+                  "day": "MI",
+                  "time": "0645-0815",
+                  "room": "690E"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "2",
+              "teacher": "VILLARROEL TAPIA HENRY FRANK",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0645-0815",
+                  "room": "625D"
+                },
+                {
+                  "day": "MA",
+                  "time": "0645-0815",
+                  "room": "617C"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        },
+        {
+          "code": "2010144",
+          "name": "SISTEMAS ECONOMICOS",
+          "groups": [
+            {
+              "code": "2",
+              "teacher": "VARGAS PEREDO EMIR FELIX",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1245-1415",
+                  "room": "625D"
+                },
+                {
+                  "day": "MA",
+                  "time": "1415-1545",
+                  "room": "660"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        },
+        {
+          "code": "2010143",
+          "name": "SISTEMAS II",
+          "groups": [
+            {
+              "code": "2",
+              "teacher": "GARCIA MOLINA JUAN RUBEN",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1115-1245",
+                  "room": "693A"
+                },
+                {
+                  "day": "JU",
+                  "time": "1715-1845",
+                  "room": "691F"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        },
+        {
+          "code": "2010182",
+          "name": "TELEFONIA IP",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "MONTOYA BURGOS YONY RICHARD",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "2015-2145",
+                  "room": "692C"
+                },
+                {
+                  "day": "MA",
+                  "time": "2015-2145",
+                  "room": "INFLAB"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "G",
+      "subjects": [
+        {
+          "code": "2010186",
+          "name": "DINAMICA DE SISTEMAS",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ORELLANA ARAOZ JORGE WALTER",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1415-1545",
+                  "room": "690C"
+                },
+                {
+                  "day": "JU",
+                  "time": "1415-1545",
+                  "room": "690E"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        },
+        {
+          "code": "2014087",
+          "name": "ELECTROTECNIA INDUSTRIAL",
+          "groups": [
+            {
+              "code": "5",
+              "teacher": "ACHA PEREZ SAMUEL",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0645-0815",
+                  "room": "692E"
+                },
+                {
+                  "day": "MI",
+                  "time": "0645-0815",
+                  "room": "693B"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "ACHA PEREZ SAMUEL",
+                  "schedule": [
+                    {
+                      "day": "MA",
+                      "time": "0645-0900",
+                      "room": "682L3"
+                    },
+                    {
+                      "day": "VI",
+                      "time": "0645-0815",
+                      "room": "660"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 405
+            }
+          ]
+        },
+        {
+          "code": "2010145",
+          "name": "GESTION DE CALIDAD DE SOFTWARE",
+          "groups": [
+            {
+              "code": "2",
+              "teacher": "TORRICO BASCOPE ROSEMARY",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0945-1115",
+                  "room": "690D"
+                },
+                {
+                  "day": "JU",
+                  "time": "0815-0945",
+                  "room": "691C"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        },
+        {
+          "code": "2016092",
+          "name": "PLANIFICACION Y EVALUACION DE PROYECTOS",
+          "groups": [
+            {
+              "code": "2",
+              "teacher": "VARGAS ANTEZANA ADEMAR MARCELO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1715-1845",
+                  "room": "660"
+                },
+                {
+                  "day": "MI",
+                  "time": "0645-0815",
+                  "room": "692C"
+                },
+                {
+                  "day": "JU",
+                  "time": "0945-1115",
+                  "room": "690B"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2010146",
+          "name": "REDES AVANZADAS DE COMPUTADORAS",
+          "groups": [
+            {
+              "code": "2",
+              "teacher": "MONTECINOS CHOQUE MARCO ANTONIO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1245-1415",
+                  "room": "607"
+                },
+                {
+                  "day": "JU",
+                  "time": "1245-1415",
+                  "room": "692A"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        },
+        {
+          "code": "2010024",
+          "name": "TALLER DE INGENIERIA DE SOFTWARE",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "FLORES VILLARROEL CORINA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0945-1115",
+                  "room": "690D"
+                },
+                {
+                  "day": "MA",
+                  "time": "0945-1115",
+                  "room": "690E"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "2",
+              "teacher": "BLANCO COCA LETICIA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0815-0945",
+                  "room": "651"
+                },
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "INFLAB"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "3",
+              "teacher": "ESCALERA FERNANDEZ DAVID",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0645-0815",
+                  "room": "INFLAB"
+                },
+                {
+                  "day": "JU",
+                  "time": "0645-0815",
+                  "room": "INFLAB"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "4",
+              "teacher": "RODRIGUEZ BILBAO ERIKA PATRICIA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1415-1545",
+                  "room": "690E"
+                },
+                {
+                  "day": "MA",
+                  "time": "1415-1545",
+                  "room": "690E"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "H",
+      "subjects": [
+        {
+          "code": "2010102",
+          "name": "EVALUACION Y AUDITORIA DE SISTEMAS",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ROMERO RODRIGUEZ PATRICIA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1115-1245",
+                  "room": "691F"
+                },
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "690B"
+                },
+                {
+                  "day": "JU",
+                  "time": "0815-0945",
+                  "room": "690C"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "2",
+              "teacher": "VILLARROEL NOVILLO JIMMY",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1545-1715",
+                  "room": "692F"
+                },
+                {
+                  "day": "MA",
+                  "time": "0815-0945",
+                  "room": "691D"
+                },
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "661"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2016059",
+          "name": "GESTION ESTRATEGICA DE EMPRESAS",
+          "groups": [
+            {
+              "code": "2",
+              "teacher": "GUZMAN ORELLANA GONZALO ENRIQUE ANTONIO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0645-0945",
+                  "room": "682L6IN"
+                },
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "682L6IN"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "1803009",
+          "name": "INGLES III",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "GRILO SALVATIERRA MARIA ESTELA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1415-1545",
+                  "room": "693A"
+                },
+                {
+                  "day": "VI",
+                  "time": "1545-1715",
+                  "room": "693B"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        },
+        {
+          "code": "2010119",
+          "name": "METODOL. Y PLANIF. DE PROYECTO DE GRADO",
+          "groups": [
+            {
+              "code": "3",
+              "teacher": "JALDIN ROSALES K. ROLANDO",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "690E"
+                },
+                {
+                  "day": "JU",
+                  "time": "1545-1715",
+                  "room": "690E"
+                },
+                {
+                  "day": "VI",
+                  "time": "0815-0945",
+                  "room": "690E"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "4",
+              "teacher": "FIORILO LOZADA AMERICO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "2015-2145",
+                  "room": "692D"
+                },
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "642"
+                },
+                {
+                  "day": "MI",
+                  "time": "0645-0815",
+                  "room": "690C"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "5",
+              "teacher": "VILLARROEL TAPIA HENRY FRANK",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1545-1715",
+                  "room": "625C"
+                },
+                {
+                  "day": "MA",
+                  "time": "1715-1845",
+                  "room": "625C"
+                },
+                {
+                  "day": "MI",
+                  "time": "1715-1845",
+                  "room": "690B"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2010209",
+          "name": "SEGURIDAD DE SISTEMAS",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ANTEZANA CAMACHO MARCELO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1115-1245",
+                  "room": "INFLAB"
+                },
+                {
+                  "day": "MA",
+                  "time": "1115-1245",
+                  "room": "INFLAB"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        },
+        {
+          "code": "2010034",
+          "name": "SISTEMAS COLABORATIVOS",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ANTEZANA CAMACHO MARCELO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0815-0945",
+                  "room": "INFLAB"
+                },
+                {
+                  "day": "MA",
+                  "time": "0945-1115",
+                  "room": "INFLAB"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        },
+        {
+          "code": "2010116",
+          "name": "TALLER DE SIMULACION DE SISTEMAS",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "VILLARROEL TAPIA HENRY FRANK",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1845-2015",
+                  "room": "690E"
+                },
+                {
+                  "day": "MI",
+                  "time": "1415-1545",
+                  "room": "690E"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "2",
+              "teacher": "AYOROA CARDOZO JOSE RICHARD",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0815-0945",
+                  "room": "661"
+                },
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "625D"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "I",
+      "subjects": [
+        {
+          "code": "2010217",
+          "name": "BUSINESS INTELLIGENCE Y BIG DATA",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "POR DESGINAR DOCENTE",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "0645-0815",
+                  "room": "INFLAB"
+                },
+                {
+                  "day": "VI",
+                  "time": "0645-0815",
+                  "room": "691F"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        },
+        {
+          "code": "2016049",
+          "name": "COSTOS INDUSTRIALES",
+          "groups": [
+            {
+              "code": "2",
+              "teacher": "LIMA VACAFLOR TITO ANIBAL",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1845-2015",
+                  "room": "617"
+                },
+                {
+                  "day": "MI",
+                  "time": "2015-2145",
+                  "room": "612"
+                },
+                {
+                  "day": "SA",
+                  "time": "1115-1245",
+                  "room": "617"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "3",
+              "teacher": "POR DESGINAR DOCENTE",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "2015-2145",
+                  "room": "692E"
+                },
+                {
+                  "day": "MI",
+                  "time": "1845-2015",
+                  "room": "682L0IN"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        },
+        {
+          "code": "2016052",
+          "name": "INGENIERIA DE METODOS Y REINGENIERIA",
+          "groups": [
+            {
+              "code": "2",
+              "teacher": "COSIO PAPADOPOLIS CARLOS JAVIER",
+              "schedule": [
+                {
+                  "day": "",
+                  "time": "0000-0000",
+                  "room": ""
+                },
+                {
+                  "day": "",
+                  "time": "0000-0000",
+                  "room": ""
+                },
+                {
+                  "day": "",
+                  "time": "0000-0000",
+                  "room": ""
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "JU",
+                      "time": "0815-0945",
+                      "room": "617C"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 90
+            }
+          ]
+        },
+        {
+          "code": "2016023",
+          "name": "INGENIERIA ECONOMICA",
+          "groups": [
+            {
+              "code": "2",
+              "teacher": "POR DESGINAR DOCENTE",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0815-0945",
+                  "room": "682L8IN"
+                },
+                {
+                  "day": "JU",
+                  "time": "0815-0945",
+                  "room": "652"
+                },
+                {
+                  "day": "VI",
+                  "time": "0815-0945",
+                  "room": "692B"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            },
+            {
+              "code": "3",
+              "teacher": "ARANIBAR LA FUENTE LIGIA JACQUELINE",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0945-1115",
+                  "room": "652"
+                },
+                {
+                  "day": "MI",
+                  "time": "1715-1845",
+                  "room": "693B"
+                },
+                {
+                  "day": "VI",
+                  "time": "0945-1115",
+                  "room": "690B"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2016021",
+          "name": "PLANIF. Y CONTROL DE LA PRODUCCION I",
+          "groups": [
+            {
+              "code": "3",
+              "teacher": "QUIROZ CHAVEZ ABDON",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0815-0945",
+                  "room": "AULVIR"
+                },
+                {
+                  "day": "MI",
+                  "time": "1115-1245",
+                  "room": "AULVIR"
+                },
+                {
+                  "day": "JU",
+                  "time": "0945-1115",
+                  "room": "AULVIR"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2016027",
+          "name": "PLANIF. Y CONTROL DE LA PRODUCCION II",
+          "groups": [
+            {
+              "code": "3",
+              "teacher": "CHOQUE FLORES ALEX D'ANCHGELO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "690B"
+                },
+                {
+                  "day": "JU",
+                  "time": "1845-2015",
+                  "room": "625D"
+                },
+                {
+                  "day": "SA",
+                  "time": "0945-1115",
+                  "room": "691F"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2010147",
+          "name": "PRACTICA EMPRESARIAL",
+          "groups": [
+            {
+              "code": "2",
+              "teacher": "ANTEZANA CAMACHO MARCELO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0945-1115",
+                  "room": "690E"
+                },
+                {
+                  "day": "MA",
+                  "time": "0815-0945",
+                  "room": "INFLAB"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        },
+        {
+          "code": "2010174",
+          "name": "PROGRAMACION MOVIL",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "FIORILO LOZADA AMERICO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "2015-2145",
+                  "room": "691C"
+                },
+                {
+                  "day": "VI",
+                  "time": "2015-2145",
+                  "room": "691E"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        },
+        {
+          "code": "2010122",
+          "name": "PROYECTO FINAL",
+          "groups": [
+            {
+              "code": "2",
+              "teacher": "MONTANO QUIROGA VICTOR HUGO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1115-1245",
+                  "room": "INFLAB"
+                },
+                {
+                  "day": "JU",
+                  "time": "0815-0945",
+                  "room": "INFDEP"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "3",
+              "teacher": "GARCIA PEREZ CARMEN ROSA",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1245-1415",
+                  "room": "690E"
+                },
+                {
+                  "day": "JU",
+                  "time": "0815-0945",
+                  "room": "690E"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "4",
+              "teacher": "ROMERO RODRIGUEZ PATRICIA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1245-1415",
+                  "room": "692G"
+                },
+                {
+                  "day": "MA",
+                  "time": "0945-1115",
+                  "room": "625C"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "5",
+              "teacher": "VILLARROEL NOVILLO JIMMY",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1415-1545",
+                  "room": "INFDEP"
+                },
+                {
+                  "day": "MA",
+                  "time": "1415-1545",
+                  "room": "INFDEP"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        },
+        {
+          "code": "2010103",
+          "name": "ROBOTICA",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "GARCIA PEREZ CARMEN ROSA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "0945-1115",
+                  "room": "692F"
+                },
+                {
+                  "day": "JU",
+                  "time": "0945-1115",
+                  "room": "692G"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        },
+        {
+          "code": "2010079",
+          "name": "WEB SEMANTICAS",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "RODRIGUEZ BILBAO ERIKA PATRICIA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1115-1245",
+                  "room": "691C"
+                },
+                {
+                  "day": "MI",
+                  "time": "1415-1545",
+                  "room": "681B"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "J",
+      "subjects": [
+        {
+          "code": "2010033",
+          "name": "GENERACION DE SOFTWARE",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "COSTAS JAUREGUI VLADIMIR ABEL",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1415-1545",
+                  "room": "607"
+                },
+                {
+                  "day": "MI",
+                  "time": "0945-1115",
+                  "room": "692C"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        },
+        {
+          "code": "2010191",
+          "name": "TECNICAS DE RUTEO AVANZADA",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "MONTOYA BURGOS YONY RICHARD",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1845-2015",
+                  "room": "INFLAB"
+                },
+                {
+                  "day": "MA",
+                  "time": "1845-2015",
+                  "room": "INFLAB"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

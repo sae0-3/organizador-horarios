@@ -1,0 +1,737 @@
+{
+  "levels": [
+    {
+      "code": "A",
+      "subjects": [
+        {
+          "code": "2008159",
+          "name": "ALGEBRA",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "TAYLOR TERRAZAS DARLONG HOWARD",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0815-0945",
+                  "room": "690A"
+                },
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "691E"
+                },
+                {
+                  "day": "VI",
+                  "time": "0645-0815",
+                  "room": "690A"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2002004",
+          "name": "BIOLOGIA GENERAL",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "FERNANDEZ TERRAZAS ERIKA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1845-2015",
+                  "room": "690A"
+                },
+                {
+                  "day": "JU",
+                  "time": "1200-1415",
+                  "room": "690A"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "FERNANDEZ TERRAZAS ERIKA",
+                  "schedule": [
+                    {
+                      "day": "LU",
+                      "time": "1200-1415",
+                      "room": "608A"
+                    },
+                    {
+                      "day": "MI",
+                      "time": "1200-1415",
+                      "room": "608A"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 495
+            }
+          ]
+        },
+        {
+          "code": "2006063",
+          "name": "FISICA GENERAL",
+          "groups": [
+            {
+              "code": "A",
+              "teacher": "CASTRO LAZARTE CECILIA BEATRIZ",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1545-1715",
+                  "room": "692B"
+                },
+                {
+                  "day": "MI",
+                  "time": "1545-1715",
+                  "room": "692A"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 180
+            },
+            {
+              "code": "A1",
+              "teacher": "VASQUEZ CARRILLO MICHAEL HUASCAR",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "time": "1115-1245",
+                  "room": "620"
+                }
+              ],
+              "assistants": [],
+              "is_lab": true,
+              "total_minutes": 90
+            },
+            {
+              "code": "A2",
+              "teacher": "VASQUEZ CARRILLO MICHAEL HUASCAR",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "time": "1415-1545",
+                  "room": "684L6"
+                }
+              ],
+              "assistants": [],
+              "is_lab": true,
+              "total_minutes": 90
+            }
+          ]
+        },
+        {
+          "code": "2004163",
+          "name": "QUIMICA GENERAL",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ROJAS CESPEDES JENNY",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "time": "0945-1200",
+                  "room": "690A"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "ALFARO DENUS GONZALO",
+                  "schedule": [
+                    {
+                      "day": "MA",
+                      "time": "0815-1030",
+                      "room": "614"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2002601",
+          "name": "TALLER DE REDACCION Y COMUNICACION",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "POR DESGINAR DOCENTE",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0945-1115",
+                  "room": "690A"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "B",
+      "subjects": [
+        {
+          "code": "2008161",
+          "name": "BIOESTADISTICA",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "OMONTE OJALVO JOSE ROBERTO",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "617C"
+                },
+                {
+                  "day": "JU",
+                  "time": "0945-1115",
+                  "room": "652"
+                },
+                {
+                  "day": "VI",
+                  "time": "1115-1245",
+                  "room": "690B"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2002005",
+          "name": "BIOLOGIA CELULAR Y MOLECULAR",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "GARCIA ORELLANA ANA LINETH",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1415-1630",
+                  "room": "609A"
+                },
+                {
+                  "day": "VI",
+                  "time": "0815-1030",
+                  "room": "608B"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2008054",
+          "name": "CALCULO I",
+          "groups": [
+            {
+              "code": "11",
+              "teacher": "ROJAS ZURITA RAMIRO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0645-0815",
+                  "room": "622"
+                },
+                {
+                  "day": "MA",
+                  "time": "0815-0945",
+                  "room": "692B"
+                },
+                {
+                  "day": "JU",
+                  "time": "0815-0945",
+                  "room": "692E"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2004044",
+          "name": "FISICOQUIMICA",
+          "groups": [
+            {
+              "code": "3",
+              "teacher": "ARCE GARCIA OMAR ORLANDO",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1245-1415",
+                  "room": "693B"
+                },
+                {
+                  "day": "JU",
+                  "time": "1245-1415",
+                  "room": "623"
+                },
+                {
+                  "day": "VI",
+                  "time": "1245-1415",
+                  "room": "623"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2004012",
+          "name": "LABORATORIO DE QUIMICA ORGANICA",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "POR DESGINAR DOCENTE",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1415-1845",
+                  "room": "615"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "LU",
+                      "time": "1415-1800",
+                      "room": "615"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 495
+            },
+            {
+              "code": "2",
+              "teacher": "POR DESGINAR DOCENTE",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1415-1845",
+                  "room": "615"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "MA",
+                      "time": "1415-1800",
+                      "room": "615"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 495
+            },
+            {
+              "code": "3",
+              "teacher": "POR DESGINAR DOCENTE",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "0815-1245",
+                  "room": "615"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "COCA COSSIO MELISSA NICOLE",
+                  "schedule": [
+                    {
+                      "day": "MI",
+                      "time": "0815-1200",
+                      "room": "615"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 495
+            }
+          ]
+        },
+        {
+          "code": "2004053",
+          "name": "QUIMICA ORGANICA",
+          "groups": [
+            {
+              "code": "2",
+              "teacher": "POR DESGINAR DOCENTE",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1115-1245",
+                  "room": "691D"
+                },
+                {
+                  "day": "JU",
+                  "time": "1115-1245",
+                  "room": "691C"
+                },
+                {
+                  "day": "VI",
+                  "time": "0945-1115",
+                  "room": "660"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "C",
+      "subjects": [
+        {
+          "code": "2002024",
+          "name": "BACTERIOLOGIA",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "IRIARTE PUNA MERCEDES",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "time": "0945-1200",
+                  "room": "MICBIO"
+                },
+                {
+                  "day": "VI",
+                  "time": "0815-1030",
+                  "room": "606"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2002038",
+          "name": "BIOESTADISTICA II",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "PEREZ ZUBIETA JOSE CARLOS",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "1200-1415",
+                  "room": "608B"
+                },
+                {
+                  "day": "JU",
+                  "time": "1200-1415",
+                  "room": "606"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2008056",
+          "name": "CALCULO II",
+          "groups": [
+            {
+              "code": "8",
+              "teacher": "FLORES GARCIA HERNAN",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0645-0815",
+                  "room": "623"
+                },
+                {
+                  "day": "MI",
+                  "time": "0645-0815",
+                  "room": "622"
+                },
+                {
+                  "day": "VI",
+                  "time": "0645-0815",
+                  "room": "691E"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2002019",
+          "name": "GENETICA I",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "AVILA LARA ALFREDO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0815-0945",
+                  "room": "608"
+                },
+                {
+                  "day": "MI",
+                  "time": "0815-0945",
+                  "room": "608"
+                },
+                {
+                  "day": "JU",
+                  "time": "1630-1800",
+                  "room": "608"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2004145",
+          "name": "LABORATORIO DE QUIMICA ORGANICA II",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "POR DESGINAR DOCENTE",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1245-1715",
+                  "room": "615"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "MI",
+                      "time": "1245-1630",
+                      "room": "615"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 495
+            },
+            {
+              "code": "2",
+              "teacher": "POR DESGINAR DOCENTE",
+              "schedule": [
+                {
+                  "day": "SA",
+                  "time": "0815-1245",
+                  "room": "615"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "COCA COSSIO MELISSA NICOLE",
+                  "schedule": [
+                    {
+                      "day": "SA",
+                      "time": "0815-1200",
+                      "room": "615"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 495
+            },
+            {
+              "code": "3",
+              "teacher": "DAVILA CABRERA MARCELO ARMANDO",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "time": "1415-1845",
+                  "room": "615"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "POR DESIGNAR AUXILIAR",
+                  "schedule": [
+                    {
+                      "day": "VI",
+                      "time": "1415-1800",
+                      "room": "615"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 495
+            }
+          ]
+        },
+        {
+          "code": "2004056",
+          "name": "QUIMICA ORGANICA II",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "VILASECA GAMARRA LUIS ANTONIO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1415-1545",
+                  "room": "617C"
+                },
+                {
+                  "day": "JU",
+                  "time": "1545-1715",
+                  "room": "692G"
+                },
+                {
+                  "day": "VI",
+                  "time": "1115-1245",
+                  "room": "691F"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "D",
+      "subjects": [
+        {
+          "code": "2002014",
+          "name": "BIOQUIMICA",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "BRUCKNER BAZOBERRY MARIA LIDIA AMPARO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "time": "0730-0900",
+                  "room": "608A"
+                },
+                {
+                  "day": "JU",
+                  "time": "0730-0945",
+                  "room": "690A"
+                }
+              ],
+              "assistants": [
+                {
+                  "name": "RIVERO LUJAN MIRTHA JUDITH",
+                  "schedule": [
+                    {
+                      "day": "MA",
+                      "time": "1415-1630",
+                      "room": "609A"
+                    }
+                  ]
+                }
+              ],
+              "is_lab": false,
+              "total_minutes": 360
+            }
+          ]
+        },
+        {
+          "code": "2002062",
+          "name": "GENETICA DE MICROORGANISMOS",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "POR DESGINAR DOCENTE",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "time": "1415-1630",
+                  "room": "608A"
+                },
+                {
+                  "day": "JU",
+                  "time": "1415-1630",
+                  "room": "690A"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        },
+        {
+          "code": "2004061",
+          "name": "QUIMICA ANALITICA",
+          "groups": [
+            {
+              "code": "2",
+              "teacher": "ESCALERA MEJIA EDWIN",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "time": "1415-1545",
+                  "room": "692C"
+                },
+                {
+                  "day": "JU",
+                  "time": "1545-1715",
+                  "room": "617C"
+                },
+                {
+                  "day": "VI",
+                  "time": "1415-1545",
+                  "room": "692F"
+                }
+              ],
+              "assistants": [],
+              "is_lab": false,
+              "total_minutes": 270
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
